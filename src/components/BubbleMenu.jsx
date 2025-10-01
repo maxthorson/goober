@@ -15,14 +15,14 @@ const DEFAULT_ITEMS = [
   },
   {
     label: 'products',
-    href: '#',
+    href: '/products',
     ariaLabel: 'About',
     rotation: 8,
     hoverStyles: { bgColor: '#10b981', textColor: '#ffffff' }
   },
   {
     label: 'config',
-    href: '#',
+    href: '/qmk_configurator/index.html',
     ariaLabel: 'Documentation',
     rotation: 8,
     hoverStyles: { bgColor: '#f59e0b', textColor: '#ffffff' }

@@ -2,12 +2,18 @@
 
 import BubbleMenu from './BubbleMenu';
 import { useCallback } from 'react';
+import Link from 'next/link';
 
 export default function BubbleMenuClient() {
   const handleMenuClick = useCallback((open) => {
     // noop for now — this runs in the client
-    // console.log('menu open:', open);
   }, []);
+
+  const logo = (
+    <Link href="/" className="text-sm font-semibold text-black no-underline">
+      goober
+    </Link>
+  );
 
   return (
     <BubbleMenu
@@ -18,7 +24,7 @@ export default function BubbleMenuClient() {
       menuContentColor="#111"
       onMenuClick={handleMenuClick}
       items={undefined}
-      logo={undefined}
+      logo={logo}
     />
   );
 }
