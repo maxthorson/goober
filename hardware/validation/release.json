@@ -1,0 +1,30 @@
+{
+  "revision": "A.1",
+  "design_date": "2026-09-05",
+  "board_mm": [
+    80,
+    96,
+    1.6
+  ],
+  "case_footprint_mm": [
+    86,
+    102
+  ],
+  "hub_passthrough": false,
+  "checks": [
+    "schematic-erc.json",
+    "pcb-final.json",
+    "connectivity.json",
+    "firmware.json",
+    "gerber-parse.json",
+    "case-meshes.json",
+    "mechanical-clearances.json"
+  ],
+  "hardware_tested": false,
+  "source_sha256": {
+    "hardware/goober.kicad_pcb": "6440001294d55dc91c81ba276d9a825ab93d9c1b4a8719db1573bb5a02daf25a",
+    "hardware/goober.kicad_sch": "a0fc959e6af04e084aae483c381c775d88e84aedb707552a4e13364285c7a0dc",
+    "case/goober.scad": "a65f4b54959ed70ab9da7ccd9ca48de64aa8f86e85473270ffc7790bc3e68f93",
+    "firmware/build/goober-rev-a-default.uf2": "37cdf6362becb5af923bd2000f21c59298a4197a62f5f0c19ec085e71cb36066"
+  }
+}

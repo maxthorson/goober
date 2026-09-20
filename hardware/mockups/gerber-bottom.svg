@@ -1,0 +1,1430 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="84.05000000000067mm" height="100.05000000000067mm" viewBox="-2.0250000000006665 -98.025 84.05000000000067 100.05000000000067" style="background-color:white">
+  <ns0:g transform="translate(80 0) scale(-1 1)"><ns0:g stroke-linejoin="round" stroke-linecap="round" id="l-mechanical-outline" transform="translate(0 -95.99999999999933) scale(1 -1)">
+    <ns0:path d="M 0.0 -3.0 A 3.0 3.0 0 0 0 3.0 0.0" fill="none" stroke="#333333" stroke-width="0.05" stroke-linecap="round" />
+    <ns0:path d="M 0.0 -93.0 L 0.0 -3.0" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.05" />
+    <ns0:path d="M 3.0 0.0 L 77.0 0.0" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.05" />
+    <ns0:path d="M 3.0 -96.0 A 3.0 3.0 0 0 0 0.0 -93.0" fill="none" stroke="#333333" stroke-width="0.05" stroke-linecap="round" />
+    <ns0:path d="M 77.0 0.0 A 3.0 3.0 0 0 0 80.0 -3.0" fill="none" stroke="#333333" stroke-width="0.05" stroke-linecap="round" />
+    <ns0:path d="M 77.0 -96.0 L 3.0 -96.0" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.05" />
+    <ns0:path d="M 80.0 -3.0 L 80.0 -93.0" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.05" />
+    <ns0:path d="M 80.0 -93.0 A 3.0 3.0 0 0 0 77.0 -96.0" fill="none" stroke="#333333" stroke-width="0.05" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -68.13 L 57.35 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.35 -68.13 L 57.35 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -66.63 L 58.1496 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -66.63 L 59.9504 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -69.63 L 58.1496 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -69.63 L 59.9504 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -68.13 L 60.75 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -68.13 L 60.75 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.3061 -67.2733 A 0.299976 0.299976 0 0 0 57.35 -67.4296" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.3061 -67.2733 A 0.499999 0.499999 0 0 0 57.9933 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -68.8304 A 0.29968 0.29968 0 0 0 57.3061 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -69.6739 A 0.499999 0.499999 0 0 0 57.3061 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -69.6739 A 0.299976 0.299976 0 0 0 58.1496 -69.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 58.1496 -66.63 A 0.30002 0.30002 0 0 0 57.9933 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 59.9504 -69.63 A 0.299992 0.299992 0 0 0 60.1067 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -66.5861 A 0.299992 0.299992 0 0 0 59.9504 -66.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -66.5861 A 0.5 0.5 0 0 0 60.7939 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.75 -67.4296 A 0.299992 0.299992 0 0 0 60.7939 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -68.9867 A 0.5 0.5 0 0 0 60.1067 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -68.9867 A 0.299992 0.299992 0 0 0 60.75 -68.8304" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -68.13 L 19.25 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.25 -68.13 L 19.25 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -66.63 L 20.0496 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -66.63 L 21.8504 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -69.63 L 20.0496 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -69.63 L 21.8504 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -68.13 L 22.65 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -68.13 L 22.65 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.2061 -67.2733 A 0.299976 0.299976 0 0 0 19.25 -67.4296" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.2061 -67.2733 A 0.499999 0.499999 0 0 0 19.8933 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -68.8304 A 0.29968 0.29968 0 0 0 19.2061 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -69.6739 A 0.499999 0.499999 0 0 0 19.2061 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -69.6739 A 0.299976 0.299976 0 0 0 20.0496 -69.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 20.0496 -66.63 A 0.30002 0.30002 0 0 0 19.8933 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 21.8504 -69.63 A 0.299992 0.299992 0 0 0 22.0067 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -66.5861 A 0.299992 0.299992 0 0 0 21.8504 -66.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -66.5861 A 0.5 0.5 0 0 0 22.6939 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.65 -67.4296 A 0.299992 0.299992 0 0 0 22.6939 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -68.9867 A 0.5 0.5 0 0 0 22.0067 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -68.9867 A 0.299992 0.299992 0 0 0 22.65 -68.8304" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -49.08 L 38.3 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.3 -49.08 L 38.3 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -47.58 L 39.0996 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -47.58 L 40.9004 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -50.58 L 39.0996 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -50.58 L 40.9004 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -49.08 L 41.7 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -49.08 L 41.7 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.2561 -48.2233 A 0.299976 0.299976 0 0 0 38.3 -48.3796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.2561 -48.2233 A 0.499999 0.499999 0 0 0 38.9433 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -49.7804 A 0.29968 0.29968 0 0 0 38.2561 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -50.6239 A 0.499999 0.499999 0 0 0 38.2561 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -50.6239 A 0.299976 0.299976 0 0 0 39.0996 -50.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 39.0996 -47.58 A 0.30002 0.30002 0 0 0 38.9433 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 40.9004 -50.58 A 0.299992 0.299992 0 0 0 41.0567 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -47.5361 A 0.299992 0.299992 0 0 0 40.9004 -47.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -47.5361 A 0.5 0.5 0 0 0 41.7439 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7 -48.3796 A 0.299992 0.299992 0 0 0 41.7439 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -49.9367 A 0.5 0.5 0 0 0 41.0567 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -49.9367 A 0.299992 0.299992 0 0 0 41.7 -49.7804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -87.18 L 19.25 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.25 -87.18 L 19.25 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -85.68 L 20.0496 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -85.68 L 21.8504 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -88.68 L 20.0496 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -88.68 L 21.8504 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -87.18 L 22.65 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -87.18 L 22.65 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.2061 -86.3233 A 0.299976 0.299976 0 0 0 19.25 -86.4796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.2061 -86.3233 A 0.499999 0.499999 0 0 0 19.8933 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -87.8804 A 0.29968 0.29968 0 0 0 19.2061 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -88.7239 A 0.499999 0.499999 0 0 0 19.2061 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -88.7239 A 0.299976 0.299976 0 0 0 20.0496 -88.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 20.0496 -85.68 A 0.30002 0.30002 0 0 0 19.8933 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 21.8504 -88.68 A 0.299992 0.299992 0 0 0 22.0067 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -85.6361 A 0.299992 0.299992 0 0 0 21.8504 -85.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -85.6361 A 0.5 0.5 0 0 0 22.6939 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.65 -86.4796 A 0.299992 0.299992 0 0 0 22.6939 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -88.0367 A 0.5 0.5 0 0 0 22.0067 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -88.0367 A 0.299992 0.299992 0 0 0 22.65 -87.8804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -87.18 L 38.3 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.3 -87.18 L 38.3 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -85.68 L 39.0996 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -85.68 L 40.9004 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -88.68 L 39.0996 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -88.68 L 40.9004 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -87.18 L 41.7 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -87.18 L 41.7 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.2561 -86.3233 A 0.299976 0.299976 0 0 0 38.3 -86.4796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.2561 -86.3233 A 0.499999 0.499999 0 0 0 38.9433 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -87.8804 A 0.29968 0.29968 0 0 0 38.2561 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -88.7239 A 0.499999 0.499999 0 0 0 38.2561 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -88.7239 A 0.299976 0.299976 0 0 0 39.0996 -88.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 39.0996 -85.68 A 0.30002 0.30002 0 0 0 38.9433 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 40.9004 -88.68 A 0.299992 0.299992 0 0 0 41.0567 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -85.6361 A 0.299992 0.299992 0 0 0 40.9004 -85.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -85.6361 A 0.5 0.5 0 0 0 41.7439 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7 -86.4796 A 0.299992 0.299992 0 0 0 41.7439 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -88.0367 A 0.5 0.5 0 0 0 41.0567 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -88.0367 A 0.299992 0.299992 0 0 0 41.7 -87.8804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -49.08 L 19.25 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.25 -49.08 L 19.25 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -47.58 L 20.0496 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -47.58 L 21.8504 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -50.58 L 20.0496 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 20.95 -50.58 L 21.8504 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -49.08 L 22.65 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 22.65 -49.08 L 22.65 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 19.2061 -48.2233 A 0.299976 0.299976 0 0 0 19.25 -48.3796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.2061 -48.2233 A 0.499999 0.499999 0 0 0 19.8933 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.25 -49.7804 A 0.29968 0.29968 0 0 0 19.2061 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -50.6239 A 0.499999 0.499999 0 0 0 19.2061 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 19.8933 -50.6239 A 0.299976 0.299976 0 0 0 20.0496 -50.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 20.0496 -47.58 A 0.30002 0.30002 0 0 0 19.8933 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 21.8504 -50.58 A 0.299992 0.299992 0 0 0 22.0067 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -47.5361 A 0.299992 0.299992 0 0 0 21.8504 -47.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.0067 -47.5361 A 0.5 0.5 0 0 0 22.6939 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.65 -48.3796 A 0.299992 0.299992 0 0 0 22.6939 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -49.9367 A 0.5 0.5 0 0 0 22.0067 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 22.6939 -49.9367 A 0.299992 0.299992 0 0 0 22.65 -49.7804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -87.18 L 57.35 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.35 -87.18 L 57.35 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -85.68 L 58.1496 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -85.68 L 59.9504 -85.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -88.68 L 58.1496 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -88.68 L 59.9504 -88.68" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -87.18 L 60.75 -86.4796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -87.18 L 60.75 -87.8804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.3061 -86.3233 A 0.299976 0.299976 0 0 0 57.35 -86.4796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.3061 -86.3233 A 0.499999 0.499999 0 0 0 57.9933 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -87.8804 A 0.29968 0.29968 0 0 0 57.3061 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -88.7239 A 0.499999 0.499999 0 0 0 57.3061 -88.0367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -88.7239 A 0.299976 0.299976 0 0 0 58.1496 -88.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 58.1496 -85.68 A 0.30002 0.30002 0 0 0 57.9933 -85.6361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 59.9504 -88.68 A 0.299992 0.299992 0 0 0 60.1067 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -85.6361 A 0.299992 0.299992 0 0 0 59.9504 -85.68" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -85.6361 A 0.5 0.5 0 0 0 60.7939 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.75 -86.4796 A 0.299992 0.299992 0 0 0 60.7939 -86.3233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -88.0367 A 0.5 0.5 0 0 0 60.1067 -88.7239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -88.0367 A 0.299992 0.299992 0 0 0 60.75 -87.8804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -49.08 L 57.35 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.35 -49.08 L 57.35 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -47.58 L 58.1496 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -47.58 L 59.9504 -47.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -50.58 L 58.1496 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 59.05 -50.58 L 59.9504 -50.58" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -49.08 L 60.75 -48.3796" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 60.75 -49.08 L 60.75 -49.7804" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 57.3061 -48.2233 A 0.299976 0.299976 0 0 0 57.35 -48.3796" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.3061 -48.2233 A 0.499999 0.499999 0 0 0 57.9933 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.35 -49.7804 A 0.29968 0.29968 0 0 0 57.3061 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -50.6239 A 0.499999 0.499999 0 0 0 57.3061 -49.9367" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 57.9933 -50.6239 A 0.299976 0.299976 0 0 0 58.1496 -50.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 58.1496 -47.58 A 0.30002 0.30002 0 0 0 57.9933 -47.5361" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 59.9504 -50.58 A 0.299992 0.299992 0 0 0 60.1067 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -47.5361 A 0.299992 0.299992 0 0 0 59.9504 -47.58" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.1067 -47.5361 A 0.5 0.5 0 0 0 60.7939 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.75 -48.3796 A 0.299992 0.299992 0 0 0 60.7939 -48.2233" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -49.9367 A 0.5 0.5 0 0 0 60.1067 -50.6239" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 60.7939 -49.9367 A 0.299992 0.299992 0 0 0 60.75 -49.7804" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -68.13 L 38.3 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.3 -68.13 L 38.3 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -66.63 L 39.0996 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -66.63 L 40.9004 -66.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -69.63 L 39.0996 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 40.0 -69.63 L 40.9004 -69.63" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -68.13 L 41.7 -67.4296" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 41.7 -68.13 L 41.7 -68.8304" fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.12" />
+    <ns0:path d="M 38.2561 -67.2733 A 0.299976 0.299976 0 0 0 38.3 -67.4296" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.2561 -67.2733 A 0.499999 0.499999 0 0 0 38.9433 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.3 -68.8304 A 0.29968 0.29968 0 0 0 38.2561 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -69.6739 A 0.499999 0.499999 0 0 0 38.2561 -68.9867" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 38.9433 -69.6739 A 0.299976 0.299976 0 0 0 39.0996 -69.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 39.0996 -66.63 A 0.30002 0.30002 0 0 0 38.9433 -66.5861" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 40.9004 -69.63 A 0.299992 0.299992 0 0 0 41.0567 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -66.5861 A 0.299992 0.299992 0 0 0 40.9004 -66.63" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.0567 -66.5861 A 0.5 0.5 0 0 0 41.7439 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7 -67.4296 A 0.299992 0.299992 0 0 0 41.7439 -67.2733" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -68.9867 A 0.5 0.5 0 0 0 41.0567 -69.6739" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+    <ns0:path d="M 41.7439 -68.9867 A 0.299992 0.299992 0 0 0 41.7 -68.8304" fill="none" stroke="#333333" stroke-width="0.12" stroke-linecap="round" />
+  </ns0:g>
+  <ns0:g stroke-linejoin="round" stroke-linecap="round" id="l-bottom-copper" transform="translate(0 -95.99999999999933) scale(1 -1)">
+    <ns0:rect x="53.5" y="-18.5" width="2.0" height="2.0" fill="#2467a3" />
+    <ns0:circle cx="54.5" cy="-22.5" r="1.0" fill="#2467a3" />
+    <ns0:circle cx="54.5" cy="-20.0" r="1.0" fill="#2467a3" />
+    <ns0:rect x="60.4" y="-15.4" width="3.2" height="2.0" fill="#2467a3" />
+    <ns0:rect x="60.4" y="-26.6" width="3.2" height="2.0" fill="#2467a3" />
+    <ns0:circle cx="69.0" cy="-22.5" r="1.0" fill="#2467a3" />
+    <ns0:circle cx="69.0" cy="-17.5" r="1.0" fill="#2467a3" />
+    <ns0:rect x="9.15" y="-27.85" width="1.7" height="1.7" fill="#2467a3" />
+    <ns0:circle cx="12.54" cy="-27.0" r="0.85" fill="#2467a3" />
+    <ns0:circle cx="15.08" cy="-27.0" r="0.85" fill="#2467a3" />
+    <ns0:circle cx="17.62" cy="-27.0" r="0.85" fill="#2467a3" />
+    <ns0:path d="M 27.425 -70.05 L 27.425 -69.55 L 26.475 -69.55 L 26.475 -70.05 L 27.425 -70.05" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-70.05" width="0.5" height="0.5" transform="rotate(90.0 27.425 -69.8)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-69.8" width="0.95" height="0.5" transform="rotate(180.0 26.95 -69.55)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-70.05" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -69.8)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-70.3" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 27.425 -68.15 L 27.425 -67.65 L 26.475 -67.65 L 26.475 -68.15 L 27.425 -68.15" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-68.15" width="0.5" height="0.5" transform="rotate(90.0 27.425 -67.9)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-67.9" width="0.95" height="0.5" transform="rotate(180.0 26.95 -67.65)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-68.15" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -67.9)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-68.4" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:circle cx="55.24" cy="-60.51" r="1.65" fill="#2467a3" />
+    <ns0:rect x="52.59" y="-61.76" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 52.715 -59.51 L 50.665 -59.51 L 50.665 -61.51 L 52.715 -61.51 L 52.715 -59.51" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-59.76" width="2.05" height="0.5" transform="rotate(180.0 51.69 -59.51)" fill="#2467a3" />
+    <ns0:rect x="49.665" y="-60.76" width="2.0" height="0.5" transform="rotate(-90.0 50.665 -60.51)" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-61.76" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="51.715" y="-60.76" width="2.0" height="0.5" transform="rotate(90.0 52.715 -60.51)" fill="#2467a3" />
+    <ns0:path d="M 66.165 -56.97 L 64.115 -56.97 L 64.115 -58.97 L 66.165 -58.97 L 66.165 -56.97" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-57.22" width="2.05" height="0.5" transform="rotate(180.0 65.14 -56.97)" fill="#2467a3" />
+    <ns0:rect x="63.115" y="-58.22" width="2.0" height="0.5" transform="rotate(-90.0 64.115 -57.97)" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-59.22" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="65.165" y="-58.22" width="2.0" height="0.5" transform="rotate(90.0 66.165 -57.97)" fill="#2467a3" />
+    <ns0:rect x="62.565" y="-59.22" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="61.59" cy="-57.97" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 62.22 -68.675 L 61.33 -68.675 L 61.33 -69.085 L 62.22 -69.085 L 62.22 -68.675" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 61.775 -68.675)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -68.88)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 62.22 -68.88)" fill="#2467a3" />
+    <ns0:path d="M 62.22 -67.175 L 61.33 -67.175 L 61.33 -67.585 L 62.22 -67.585 L 62.22 -67.175" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 61.775 -67.175)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -67.38)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 62.22 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -67.175 L 55.88 -67.175 L 55.88 -67.585 L 56.77 -67.585 L 56.77 -67.175" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 56.325 -67.175)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -67.38)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 56.77 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -68.675 L 55.88 -68.675 L 55.88 -69.085 L 56.77 -69.085 L 56.77 -68.675" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 56.325 -68.675)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -68.88)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 56.77 -68.88)" fill="#2467a3" />
+    <ns0:path d="M 27.425 -89.1 L 27.425 -88.6 L 26.475 -88.6 L 26.475 -89.1 L 27.425 -89.1" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-89.1" width="0.5" height="0.5" transform="rotate(90.0 27.425 -88.85)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-88.85" width="0.95" height="0.5" transform="rotate(180.0 26.95 -88.6)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-89.1" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -88.85)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-89.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 27.425 -87.2 L 27.425 -86.7 L 26.475 -86.7 L 26.475 -87.2 L 27.425 -87.2" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-87.2" width="0.5" height="0.5" transform="rotate(90.0 27.425 -86.95)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-86.95" width="0.95" height="0.5" transform="rotate(180.0 26.95 -86.7)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-87.2" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -86.95)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-87.45" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 46.475 -89.1 L 46.475 -88.6 L 45.525 -88.6 L 45.525 -89.1 L 46.475 -89.1" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-89.1" width="0.5" height="0.5" transform="rotate(90.0 46.475 -88.85)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-88.85" width="0.95" height="0.5" transform="rotate(180.0 46.0 -88.6)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-89.1" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -88.85)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-89.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 46.475 -87.2 L 46.475 -86.7 L 45.525 -86.7 L 45.525 -87.2 L 46.475 -87.2" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-87.2" width="0.5" height="0.5" transform="rotate(90.0 46.475 -86.95)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-86.95" width="0.95" height="0.5" transform="rotate(180.0 46.0 -86.7)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-87.2" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -86.95)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-87.45" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 24.12 -68.675 L 23.23 -68.675 L 23.23 -69.085 L 24.12 -69.085 L 24.12 -68.675" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 23.675 -68.675)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -68.88)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 24.12 -68.88)" fill="#2467a3" />
+    <ns0:path d="M 24.12 -67.175 L 23.23 -67.175 L 23.23 -67.585 L 24.12 -67.585 L 24.12 -67.175" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 23.675 -67.175)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -67.38)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 24.12 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -67.175 L 17.78 -67.175 L 17.78 -67.585 L 18.67 -67.585 L 18.67 -67.175" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 18.225 -67.175)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -67.38)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 18.67 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -68.675 L 17.78 -68.675 L 17.78 -69.085 L 18.67 -69.085 L 18.67 -68.675" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 18.225 -68.675)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -68.88)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 18.67 -68.88)" fill="#2467a3" />
+    <ns0:circle cx="17.14" cy="-79.56" r="1.65" fill="#2467a3" />
+    <ns0:rect x="14.49" y="-80.81" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 14.615 -78.56 L 12.565 -78.56 L 12.565 -80.56 L 14.615 -80.56 L 14.615 -78.56" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-78.81" width="2.05" height="0.5" transform="rotate(180.0 13.59 -78.56)" fill="#2467a3" />
+    <ns0:rect x="11.565" y="-79.81" width="2.0" height="0.5" transform="rotate(-90.0 12.565 -79.56)" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-80.81" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="13.615" y="-79.81" width="2.0" height="0.5" transform="rotate(90.0 14.615 -79.56)" fill="#2467a3" />
+    <ns0:path d="M 28.065 -76.02 L 26.015 -76.02 L 26.015 -78.02 L 28.065 -78.02 L 28.065 -76.02" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-76.27" width="2.05" height="0.5" transform="rotate(180.0 27.04 -76.02)" fill="#2467a3" />
+    <ns0:rect x="25.015" y="-77.27" width="2.0" height="0.5" transform="rotate(-90.0 26.015 -77.02)" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-78.27" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="27.065" y="-77.27" width="2.0" height="0.5" transform="rotate(90.0 28.065 -77.02)" fill="#2467a3" />
+    <ns0:rect x="24.465" y="-78.27" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="23.49" cy="-77.02" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 43.17 -49.625 L 42.28 -49.625 L 42.28 -50.035 L 43.17 -50.035 L 43.17 -49.625" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 42.725 -49.625)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -49.83)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 43.17 -49.83)" fill="#2467a3" />
+    <ns0:path d="M 43.17 -48.125 L 42.28 -48.125 L 42.28 -48.535 L 43.17 -48.535 L 43.17 -48.125" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 42.725 -48.125)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -48.33)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 43.17 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -48.125 L 36.83 -48.125 L 36.83 -48.535 L 37.72 -48.535 L 37.72 -48.125" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 37.275 -48.125)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -48.33)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 37.72 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -49.625 L 36.83 -49.625 L 36.83 -50.035 L 37.72 -50.035 L 37.72 -49.625" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 37.275 -49.625)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -49.83)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 37.72 -49.83)" fill="#2467a3" />
+    <ns0:path d="M 24.12 -87.725 L 23.23 -87.725 L 23.23 -88.135 L 24.12 -88.135 L 24.12 -87.725" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 23.675 -87.725)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -87.93)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 24.12 -87.93)" fill="#2467a3" />
+    <ns0:path d="M 24.12 -86.225 L 23.23 -86.225 L 23.23 -86.635 L 24.12 -86.635 L 24.12 -86.225" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 23.675 -86.225)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -86.43)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 24.12 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -86.225 L 17.78 -86.225 L 17.78 -86.635 L 18.67 -86.635 L 18.67 -86.225" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 18.225 -86.225)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -86.43)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 18.67 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -87.725 L 17.78 -87.725 L 17.78 -88.135 L 18.67 -88.135 L 18.67 -87.725" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 18.225 -87.725)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -87.93)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 18.67 -87.93)" fill="#2467a3" />
+    <ns0:circle cx="17.14" cy="-60.51" r="1.65" fill="#2467a3" />
+    <ns0:rect x="14.49" y="-61.76" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 14.615 -59.51 L 12.565 -59.51 L 12.565 -61.51 L 14.615 -61.51 L 14.615 -59.51" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-59.76" width="2.05" height="0.5" transform="rotate(180.0 13.59 -59.51)" fill="#2467a3" />
+    <ns0:rect x="11.565" y="-60.76" width="2.0" height="0.5" transform="rotate(-90.0 12.565 -60.51)" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-61.76" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="13.615" y="-60.76" width="2.0" height="0.5" transform="rotate(90.0 14.615 -60.51)" fill="#2467a3" />
+    <ns0:path d="M 28.065 -56.97 L 26.015 -56.97 L 26.015 -58.97 L 28.065 -58.97 L 28.065 -56.97" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-57.22" width="2.05" height="0.5" transform="rotate(180.0 27.04 -56.97)" fill="#2467a3" />
+    <ns0:rect x="25.015" y="-58.22" width="2.0" height="0.5" transform="rotate(-90.0 26.015 -57.97)" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-59.22" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="27.065" y="-58.22" width="2.0" height="0.5" transform="rotate(90.0 28.065 -57.97)" fill="#2467a3" />
+    <ns0:rect x="24.465" y="-59.22" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="23.49" cy="-57.97" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 46.475 -51.0 L 46.475 -50.5 L 45.525 -50.5 L 45.525 -51.0 L 46.475 -51.0" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-51.0" width="0.5" height="0.5" transform="rotate(90.0 46.475 -50.75)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-50.75" width="0.95" height="0.5" transform="rotate(180.0 46.0 -50.5)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-51.0" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -50.75)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-51.25" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 46.475 -49.1 L 46.475 -48.6 L 45.525 -48.6 L 45.525 -49.1 L 46.475 -49.1" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-49.1" width="0.5" height="0.5" transform="rotate(90.0 46.475 -48.85)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-48.85" width="0.95" height="0.5" transform="rotate(180.0 46.0 -48.6)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-49.1" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -48.85)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-49.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 43.17 -87.725 L 42.28 -87.725 L 42.28 -88.135 L 43.17 -88.135 L 43.17 -87.725" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 42.725 -87.725)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -87.93)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 43.17 -87.93)" fill="#2467a3" />
+    <ns0:path d="M 43.17 -86.225 L 42.28 -86.225 L 42.28 -86.635 L 43.17 -86.635 L 43.17 -86.225" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 42.725 -86.225)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -86.43)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 43.17 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -86.225 L 36.83 -86.225 L 36.83 -86.635 L 37.72 -86.635 L 37.72 -86.225" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 37.275 -86.225)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -86.43)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 37.72 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -87.725 L 36.83 -87.725 L 36.83 -88.135 L 37.72 -88.135 L 37.72 -87.725" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 37.275 -87.725)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -87.93)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 37.72 -87.93)" fill="#2467a3" />
+    <ns0:path d="M 46.475 -70.05 L 46.475 -69.55 L 45.525 -69.55 L 45.525 -70.05 L 46.475 -70.05" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-70.05" width="0.5" height="0.5" transform="rotate(90.0 46.475 -69.8)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-69.8" width="0.95" height="0.5" transform="rotate(180.0 46.0 -69.55)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-70.05" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -69.8)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-70.3" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 46.475 -68.15 L 46.475 -67.65 L 45.525 -67.65 L 45.525 -68.15 L 46.475 -68.15" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="46.475" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.525" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:rect x="46.225" y="-68.15" width="0.5" height="0.5" transform="rotate(90.0 46.475 -67.9)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-67.9" width="0.95" height="0.5" transform="rotate(180.0 46.0 -67.65)" fill="#2467a3" />
+    <ns0:rect x="45.275" y="-68.15" width="0.5" height="0.5" transform="rotate(-90.0 45.525 -67.9)" fill="#2467a3" />
+    <ns0:rect x="45.525" y="-68.4" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 24.12 -49.625 L 23.23 -49.625 L 23.23 -50.035 L 24.12 -50.035 L 24.12 -49.625" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 23.675 -49.625)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -49.83)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 24.12 -49.83)" fill="#2467a3" />
+    <ns0:path d="M 24.12 -48.125 L 23.23 -48.125 L 23.23 -48.535 L 24.12 -48.535 L 24.12 -48.125" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="23.23" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="24.12" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 23.675 -48.125)" fill="#2467a3" />
+    <ns0:rect x="23.025" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 23.23 -48.33)" fill="#2467a3" />
+    <ns0:rect x="23.23" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="23.915" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 24.12 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -48.125 L 17.78 -48.125 L 17.78 -48.535 L 18.67 -48.535 L 18.67 -48.125" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 18.225 -48.125)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -48.33)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 18.67 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 18.67 -49.625 L 17.78 -49.625 L 17.78 -50.035 L 18.67 -50.035 L 18.67 -49.625" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="17.78" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="18.67" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 18.225 -49.625)" fill="#2467a3" />
+    <ns0:rect x="17.575" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 17.78 -49.83)" fill="#2467a3" />
+    <ns0:rect x="17.78" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="18.465" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 18.67 -49.83)" fill="#2467a3" />
+    <ns0:path d="M 65.525 -70.05 L 65.525 -69.55 L 64.575 -69.55 L 64.575 -70.05 L 65.525 -70.05" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-69.55" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-70.05" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-70.05" width="0.5" height="0.5" transform="rotate(90.0 65.525 -69.8)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-69.8" width="0.95" height="0.5" transform="rotate(180.0 65.05 -69.55)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-70.05" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -69.8)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-70.3" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 65.525 -68.15 L 65.525 -67.65 L 64.575 -67.65 L 64.575 -68.15 L 65.525 -68.15" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-67.65" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-68.15" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-68.15" width="0.5" height="0.5" transform="rotate(90.0 65.525 -67.9)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-67.9" width="0.95" height="0.5" transform="rotate(180.0 65.05 -67.65)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-68.15" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -67.9)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-68.4" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 62.22 -87.725 L 61.33 -87.725 L 61.33 -88.135 L 62.22 -88.135 L 62.22 -87.725" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 61.775 -87.725)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -87.93)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 62.22 -87.93)" fill="#2467a3" />
+    <ns0:path d="M 62.22 -86.225 L 61.33 -86.225 L 61.33 -86.635 L 62.22 -86.635 L 62.22 -86.225" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 61.775 -86.225)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -86.43)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 62.22 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -86.225 L 55.88 -86.225 L 55.88 -86.635 L 56.77 -86.635 L 56.77 -86.225" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-86.225" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-86.635" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-86.43" width="0.89" height="0.41" transform="rotate(180.0 56.325 -86.225)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-86.635" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -86.43)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-86.84" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-86.635" width="0.41" height="0.41" transform="rotate(90.0 56.77 -86.43)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -87.725 L 55.88 -87.725 L 55.88 -88.135 L 56.77 -88.135 L 56.77 -87.725" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-87.725" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-88.135" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-87.93" width="0.89" height="0.41" transform="rotate(180.0 56.325 -87.725)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-88.135" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -87.93)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-88.34" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-88.135" width="0.41" height="0.41" transform="rotate(90.0 56.77 -87.93)" fill="#2467a3" />
+    <ns0:circle cx="36.19" cy="-60.51" r="1.65" fill="#2467a3" />
+    <ns0:rect x="33.54" y="-61.76" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 33.665 -59.51 L 31.615 -59.51 L 31.615 -61.51 L 33.665 -61.51 L 33.665 -59.51" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-59.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-61.51" r="0.25" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-59.76" width="2.05" height="0.5" transform="rotate(180.0 32.64 -59.51)" fill="#2467a3" />
+    <ns0:rect x="30.615" y="-60.76" width="2.0" height="0.5" transform="rotate(-90.0 31.615 -60.51)" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-61.76" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="32.665" y="-60.76" width="2.0" height="0.5" transform="rotate(90.0 33.665 -60.51)" fill="#2467a3" />
+    <ns0:path d="M 47.115 -56.97 L 45.065 -56.97 L 45.065 -58.97 L 47.115 -58.97 L 47.115 -56.97" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-56.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-58.97" r="0.25" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-57.22" width="2.05" height="0.5" transform="rotate(180.0 46.09 -56.97)" fill="#2467a3" />
+    <ns0:rect x="44.065" y="-58.22" width="2.0" height="0.5" transform="rotate(-90.0 45.065 -57.97)" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-59.22" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="46.115" y="-58.22" width="2.0" height="0.5" transform="rotate(90.0 47.115 -57.97)" fill="#2467a3" />
+    <ns0:rect x="43.515" y="-59.22" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="42.54" cy="-57.97" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 62.22 -49.625 L 61.33 -49.625 L 61.33 -50.035 L 62.22 -50.035 L 62.22 -49.625" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 61.775 -49.625)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -49.83)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 62.22 -49.83)" fill="#2467a3" />
+    <ns0:path d="M 62.22 -48.125 L 61.33 -48.125 L 61.33 -48.535 L 62.22 -48.535 L 62.22 -48.125" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="61.33" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="62.22" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 61.775 -48.125)" fill="#2467a3" />
+    <ns0:rect x="61.125" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 61.33 -48.33)" fill="#2467a3" />
+    <ns0:rect x="61.33" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="62.015" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 62.22 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -48.125 L 55.88 -48.125 L 55.88 -48.535 L 56.77 -48.535 L 56.77 -48.125" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-48.125" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-48.535" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-48.33" width="0.89" height="0.41" transform="rotate(180.0 56.325 -48.125)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-48.535" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -48.33)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-48.74" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-48.535" width="0.41" height="0.41" transform="rotate(90.0 56.77 -48.33)" fill="#2467a3" />
+    <ns0:path d="M 56.77 -49.625 L 55.88 -49.625 L 55.88 -50.035 L 56.77 -50.035 L 56.77 -49.625" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-49.625" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="55.88" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="56.77" cy="-50.035" r="0.205" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-49.83" width="0.89" height="0.41" transform="rotate(180.0 56.325 -49.625)" fill="#2467a3" />
+    <ns0:rect x="55.675" y="-50.035" width="0.41" height="0.41" transform="rotate(-90.0 55.88 -49.83)" fill="#2467a3" />
+    <ns0:rect x="55.88" y="-50.24" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="56.565" y="-50.035" width="0.41" height="0.41" transform="rotate(90.0 56.77 -49.83)" fill="#2467a3" />
+    <ns0:circle cx="55.24" cy="-79.56" r="1.65" fill="#2467a3" />
+    <ns0:rect x="52.59" y="-80.81" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 52.715 -78.56 L 50.665 -78.56 L 50.665 -80.56 L 52.715 -80.56 L 52.715 -78.56" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-78.81" width="2.05" height="0.5" transform="rotate(180.0 51.69 -78.56)" fill="#2467a3" />
+    <ns0:rect x="49.665" y="-79.81" width="2.0" height="0.5" transform="rotate(-90.0 50.665 -79.56)" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-80.81" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="51.715" y="-79.81" width="2.0" height="0.5" transform="rotate(90.0 52.715 -79.56)" fill="#2467a3" />
+    <ns0:path d="M 66.165 -76.02 L 64.115 -76.02 L 64.115 -78.02 L 66.165 -78.02 L 66.165 -76.02" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-76.27" width="2.05" height="0.5" transform="rotate(180.0 65.14 -76.02)" fill="#2467a3" />
+    <ns0:rect x="63.115" y="-77.27" width="2.0" height="0.5" transform="rotate(-90.0 64.115 -77.02)" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-78.27" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="65.165" y="-77.27" width="2.0" height="0.5" transform="rotate(90.0 66.165 -77.02)" fill="#2467a3" />
+    <ns0:rect x="62.565" y="-78.27" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="61.59" cy="-77.02" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 65.525 -89.1 L 65.525 -88.6 L 64.575 -88.6 L 64.575 -89.1 L 65.525 -89.1" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-88.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-89.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-89.1" width="0.5" height="0.5" transform="rotate(90.0 65.525 -88.85)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-88.85" width="0.95" height="0.5" transform="rotate(180.0 65.05 -88.6)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-89.1" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -88.85)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-89.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 65.525 -87.2 L 65.525 -86.7 L 64.575 -86.7 L 64.575 -87.2 L 65.525 -87.2" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-86.7" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-87.2" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-87.2" width="0.5" height="0.5" transform="rotate(90.0 65.525 -86.95)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-86.95" width="0.95" height="0.5" transform="rotate(180.0 65.05 -86.7)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-87.2" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -86.95)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-87.45" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 65.525 -51.0 L 65.525 -50.5 L 64.575 -50.5 L 64.575 -51.0 L 65.525 -51.0" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-51.0" width="0.5" height="0.5" transform="rotate(90.0 65.525 -50.75)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-50.75" width="0.95" height="0.5" transform="rotate(180.0 65.05 -50.5)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-51.0" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -50.75)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-51.25" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 65.525 -49.1 L 65.525 -48.6 L 64.575 -48.6 L 64.575 -49.1 L 65.525 -49.1" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="65.525" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.575" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="65.275" y="-49.1" width="0.5" height="0.5" transform="rotate(90.0 65.525 -48.85)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-48.85" width="0.95" height="0.5" transform="rotate(180.0 65.05 -48.6)" fill="#2467a3" />
+    <ns0:rect x="64.325" y="-49.1" width="0.5" height="0.5" transform="rotate(-90.0 64.575 -48.85)" fill="#2467a3" />
+    <ns0:rect x="64.575" y="-49.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:circle cx="17.14" cy="-41.46" r="1.65" fill="#2467a3" />
+    <ns0:rect x="14.49" y="-42.71" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 14.615 -40.46 L 12.565 -40.46 L 12.565 -42.46 L 14.615 -42.46 L 14.615 -40.46" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="12.565" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="14.615" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-40.71" width="2.05" height="0.5" transform="rotate(180.0 13.59 -40.46)" fill="#2467a3" />
+    <ns0:rect x="11.565" y="-41.71" width="2.0" height="0.5" transform="rotate(-90.0 12.565 -41.46)" fill="#2467a3" />
+    <ns0:rect x="12.565" y="-42.71" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="13.615" y="-41.71" width="2.0" height="0.5" transform="rotate(90.0 14.615 -41.46)" fill="#2467a3" />
+    <ns0:path d="M 28.065 -37.92 L 26.015 -37.92 L 26.015 -39.92 L 28.065 -39.92 L 28.065 -37.92" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.015" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="28.065" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-38.17" width="2.05" height="0.5" transform="rotate(180.0 27.04 -37.92)" fill="#2467a3" />
+    <ns0:rect x="25.015" y="-39.17" width="2.0" height="0.5" transform="rotate(-90.0 26.015 -38.92)" fill="#2467a3" />
+    <ns0:rect x="26.015" y="-40.17" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="27.065" y="-39.17" width="2.0" height="0.5" transform="rotate(90.0 28.065 -38.92)" fill="#2467a3" />
+    <ns0:rect x="24.465" y="-40.17" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="23.49" cy="-38.92" r="1.65" fill="#2467a3" />
+    <ns0:circle cx="36.19" cy="-41.46" r="1.65" fill="#2467a3" />
+    <ns0:rect x="33.54" y="-42.71" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 33.665 -40.46 L 31.615 -40.46 L 31.615 -42.46 L 33.665 -42.46 L 33.665 -40.46" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-40.71" width="2.05" height="0.5" transform="rotate(180.0 32.64 -40.46)" fill="#2467a3" />
+    <ns0:rect x="30.615" y="-41.71" width="2.0" height="0.5" transform="rotate(-90.0 31.615 -41.46)" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-42.71" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="32.665" y="-41.71" width="2.0" height="0.5" transform="rotate(90.0 33.665 -41.46)" fill="#2467a3" />
+    <ns0:path d="M 47.115 -37.92 L 45.065 -37.92 L 45.065 -39.92 L 47.115 -39.92 L 47.115 -37.92" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-38.17" width="2.05" height="0.5" transform="rotate(180.0 46.09 -37.92)" fill="#2467a3" />
+    <ns0:rect x="44.065" y="-39.17" width="2.0" height="0.5" transform="rotate(-90.0 45.065 -38.92)" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-40.17" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="46.115" y="-39.17" width="2.0" height="0.5" transform="rotate(90.0 47.115 -38.92)" fill="#2467a3" />
+    <ns0:rect x="43.515" y="-40.17" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="42.54" cy="-38.92" r="1.65" fill="#2467a3" />
+    <ns0:path d="M 43.17 -68.675 L 42.28 -68.675 L 42.28 -69.085 L 43.17 -69.085 L 43.17 -68.675" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 42.725 -68.675)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -68.88)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 43.17 -68.88)" fill="#2467a3" />
+    <ns0:path d="M 43.17 -67.175 L 42.28 -67.175 L 42.28 -67.585 L 43.17 -67.585 L 43.17 -67.175" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="42.28" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="43.17" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 42.725 -67.175)" fill="#2467a3" />
+    <ns0:rect x="42.075" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 42.28 -67.38)" fill="#2467a3" />
+    <ns0:rect x="42.28" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="42.965" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 43.17 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -67.175 L 36.83 -67.175 L 36.83 -67.585 L 37.72 -67.585 L 37.72 -67.175" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-67.175" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-67.585" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-67.38" width="0.89" height="0.41" transform="rotate(180.0 37.275 -67.175)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-67.585" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -67.38)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-67.79" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-67.585" width="0.41" height="0.41" transform="rotate(90.0 37.72 -67.38)" fill="#2467a3" />
+    <ns0:path d="M 37.72 -68.675 L 36.83 -68.675 L 36.83 -69.085 L 37.72 -69.085 L 37.72 -68.675" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-68.675" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="36.83" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:circle cx="37.72" cy="-69.085" r="0.205" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-68.88" width="0.89" height="0.41" transform="rotate(180.0 37.275 -68.675)" fill="#2467a3" />
+    <ns0:rect x="36.625" y="-69.085" width="0.41" height="0.41" transform="rotate(-90.0 36.83 -68.88)" fill="#2467a3" />
+    <ns0:rect x="36.83" y="-69.29" width="0.89" height="0.41" fill="#2467a3" />
+    <ns0:rect x="37.515" y="-69.085" width="0.41" height="0.41" transform="rotate(90.0 37.72 -68.88)" fill="#2467a3" />
+    <ns0:path d="M 27.425 -51.0 L 27.425 -50.5 L 26.475 -50.5 L 26.475 -51.0 L 27.425 -51.0" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-50.5" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-51.0" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-51.0" width="0.5" height="0.5" transform="rotate(90.0 27.425 -50.75)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-50.75" width="0.95" height="0.5" transform="rotate(180.0 26.95 -50.5)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-51.0" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -50.75)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-51.25" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:path d="M 27.425 -49.1 L 27.425 -48.6 L 26.475 -48.6 L 26.475 -49.1 L 27.425 -49.1" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="27.425" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-48.6" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="26.475" cy="-49.1" r="0.25" fill="#2467a3" />
+    <ns0:rect x="27.175" y="-49.1" width="0.5" height="0.5" transform="rotate(90.0 27.425 -48.85)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-48.85" width="0.95" height="0.5" transform="rotate(180.0 26.95 -48.6)" fill="#2467a3" />
+    <ns0:rect x="26.225" y="-49.1" width="0.5" height="0.5" transform="rotate(-90.0 26.475 -48.85)" fill="#2467a3" />
+    <ns0:rect x="26.475" y="-49.35" width="0.95" height="0.5" fill="#2467a3" />
+    <ns0:circle cx="55.24" cy="-41.46" r="1.65" fill="#2467a3" />
+    <ns0:rect x="52.59" y="-42.71" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 52.715 -40.46 L 50.665 -40.46 L 50.665 -42.46 L 52.715 -42.46 L 52.715 -40.46" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-40.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="50.665" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="52.715" cy="-42.46" r="0.25" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-40.71" width="2.05" height="0.5" transform="rotate(180.0 51.69 -40.46)" fill="#2467a3" />
+    <ns0:rect x="49.665" y="-41.71" width="2.0" height="0.5" transform="rotate(-90.0 50.665 -41.46)" fill="#2467a3" />
+    <ns0:rect x="50.665" y="-42.71" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="51.715" y="-41.71" width="2.0" height="0.5" transform="rotate(90.0 52.715 -41.46)" fill="#2467a3" />
+    <ns0:path d="M 66.165 -37.92 L 64.115 -37.92 L 64.115 -39.92 L 66.165 -39.92 L 66.165 -37.92" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-37.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="64.115" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="66.165" cy="-39.92" r="0.25" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-38.17" width="2.05" height="0.5" transform="rotate(180.0 65.14 -37.92)" fill="#2467a3" />
+    <ns0:rect x="63.115" y="-39.17" width="2.0" height="0.5" transform="rotate(-90.0 64.115 -38.92)" fill="#2467a3" />
+    <ns0:rect x="64.115" y="-40.17" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="65.165" y="-39.17" width="2.0" height="0.5" transform="rotate(90.0 66.165 -38.92)" fill="#2467a3" />
+    <ns0:rect x="62.565" y="-40.17" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="61.59" cy="-38.92" r="1.65" fill="#2467a3" />
+    <ns0:circle cx="36.19" cy="-79.56" r="1.65" fill="#2467a3" />
+    <ns0:rect x="33.54" y="-80.81" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:path d="M 33.665 -78.56 L 31.615 -78.56 L 31.615 -80.56 L 33.665 -80.56 L 33.665 -78.56" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-78.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="31.615" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="33.665" cy="-80.56" r="0.25" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-78.81" width="2.05" height="0.5" transform="rotate(180.0 32.64 -78.56)" fill="#2467a3" />
+    <ns0:rect x="30.615" y="-79.81" width="2.0" height="0.5" transform="rotate(-90.0 31.615 -79.56)" fill="#2467a3" />
+    <ns0:rect x="31.615" y="-80.81" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="32.665" y="-79.81" width="2.0" height="0.5" transform="rotate(90.0 33.665 -79.56)" fill="#2467a3" />
+    <ns0:path d="M 47.115 -76.02 L 45.065 -76.02 L 45.065 -78.02 L 47.115 -78.02 L 47.115 -76.02" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-76.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="45.065" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:circle cx="47.115" cy="-78.02" r="0.25" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-76.27" width="2.05" height="0.5" transform="rotate(180.0 46.09 -76.02)" fill="#2467a3" />
+    <ns0:rect x="44.065" y="-77.27" width="2.0" height="0.5" transform="rotate(-90.0 45.065 -77.02)" fill="#2467a3" />
+    <ns0:rect x="45.065" y="-78.27" width="2.05" height="0.5" fill="#2467a3" />
+    <ns0:rect x="46.115" y="-77.27" width="2.0" height="0.5" transform="rotate(90.0 47.115 -77.02)" fill="#2467a3" />
+    <ns0:rect x="43.515" y="-78.27" width="1.65" height="2.5" fill="#2467a3" />
+    <ns0:circle cx="42.54" cy="-77.02" r="1.65" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-1.59" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-4.13" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-6.67" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-9.21" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-11.75" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-14.29" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-16.83" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-19.37" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="20.38" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="22.92" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="25.46" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="28.0" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="30.54" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="33.08" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-21.91" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-19.37" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-16.83" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-14.29" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-11.75" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-9.21" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-6.67" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-4.13" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="35.62" cy="-1.59" r="0.9" fill="#2467a3" />
+    <ns0:circle cx="40.0" cy="-31.1047" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="42.7528" cy="-50.8529" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="42.7528" cy="-46.89" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="50.0932" cy="-64.8106" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="16.1631" cy="-85.8968" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="58.5213" cy="-73.5651" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="50.0932" cy="-62.8344" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="20.1642" cy="-89.3188" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="36.6262" cy="-28.0596" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="36.6688" cy="-85.1699" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="54.0875" cy="-6.67" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="52.5591" cy="-25.6631" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="39.2341" cy="-22.9481" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="46.1036" cy="-27.9024" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="46.4993" cy="-31.8028" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="34.783" cy="-26.9497" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="32.4396" cy="-23.412" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="29.5701" cy="-26.7688" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="30.7398" cy="-41.3596" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="49.0462" cy="-68.88" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="38.6015" cy="-84.7587" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="51.882" cy="-53.6698" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="51.882" cy="-49.83" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="43.1153" cy="-71.6689" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="43.9159" cy="-68.2251" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="16.7" cy="-29.9" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="16.7" cy="-35.1" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="46.1403" cy="-47.2639" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="46.1403" cy="-52.8212" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="63.3288" cy="-51.8964" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="63.3288" cy="-48.4925" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="42.8333" cy="-91.7473" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="42.8333" cy="-85.4128" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="12.5974" cy="-57.0409" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="13.8283" cy="-29.2907" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="28.9128" cy="-40.6876" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="31.0892" cy="-28.8216" r="0.3" fill="#2467a3" />
+    <ns0:circle cx="28.5873" cy="-26.8355" r="0.3" fill="#2467a3" />
+    <ns0:path d="M 48.42 -86.43 L 56.325 -86.43" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 47.9089 -43.4973 L 44.5162 -46.89" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -48.33 L 29.37 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 38.427 -65.8019 L 37.275 -66.9539" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 44.5162 -46.89 L 42.7528 -46.89" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 60.2005 -84.8519 L 61.7982 -83.2542" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 29.37 -86.43 L 26.95 -88.85" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 16.999 -69.3763 L 18.809 -71.1862" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 56.325 -86.43 L 56.325 -86.0039" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -66.9539 L 37.275 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 47.9089 -37.605 L 47.9089 -43.4973" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 41.4086 -31.1047 L 47.9089 -37.605" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 17.3688 -67.38 L 18.225 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -67.38 L 29.37 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 16.1631 -85.8968 L 11.8123 -81.546" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 61.7982 -83.2542 L 61.7982 -80.8553" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 65.05 -88.85 L 64.567 -89.333" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 55.1725 -87.3707 L 56.1132 -86.43 L 56.325 -86.43" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 36.9549 -28.0596 L 40.0 -31.1047" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 57.477 -84.8519 L 60.2005 -84.8519" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 46.0 -50.75 L 42.8557 -50.75" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 11.773 -54.5025 L 17.9455 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 58.5213 -73.5651 L 59.9031 -74.9469" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 50.0932 -67.38 L 50.0932 -64.8106" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 17.9455 -48.33 L 18.225 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 46.0 -88.85 L 48.42 -86.43" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 61.7982 -80.8553 L 59.4343 -78.4914" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 42.8557 -50.75 L 42.7528 -50.8529" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -48.33 L 37.275 -47.8336" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 65.05 -50.75 L 63.3415 -50.75" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 59.4343 -78.4914 L 59.4343 -75.4157" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 16.1631 -85.8968 L 17.6918 -85.8968" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 63.3415 -50.75 L 62.8721 -51.2194" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 17.6918 -85.8968 L 18.225 -86.43" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 50.0932 -62.8344 L 47.1257 -65.8019" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 59.4343 -75.4157 L 59.9031 -74.9469" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 48.42 -67.38 L 46.0 -69.8" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 17.3688 -67.38 L 11.773 -61.7842" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 46.4694 -51.2194 L 46.0 -50.75" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 56.325 -67.38 L 50.0932 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 11.773 -61.7842 L 11.773 -54.5025" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 11.8123 -81.546 L 11.8123 -78.1829" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 18.809 -71.1862 L 21.1878 -73.5651" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 40.0 -31.1047 L 41.4086 -31.1047" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 56.325 -86.0039 L 57.477 -84.8519" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 29.37 -67.38 L 26.95 -69.8" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 36.6262 -28.0596 L 36.9549 -28.0596" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 17.3688 -67.38 L 16.999 -67.7498" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 11.8123 -78.1829 L 18.809 -71.1862" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 26.4812 -89.3188 L 20.1642 -89.3188" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 21.1878 -73.5651 L 58.5213 -73.5651" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -47.8336 L 38.2186 -46.89" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 29.37 -48.33 L 26.95 -50.75" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 26.95 -88.85 L 26.4812 -89.3188" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 37.275 -86.43 L 29.37 -86.43" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 64.567 -89.333 L 56.0713 -89.333" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 47.1257 -65.8019 L 38.427 -65.8019" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 16.999 -67.7498 L 16.999 -69.3763" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 55.1725 -88.4342 L 55.1725 -87.3707" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 62.8721 -51.2194 L 46.4694 -51.2194" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 48.42 -48.33 L 46.0 -50.75" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 38.2186 -46.89 L 42.7528 -46.89" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 56.0713 -89.333 L 55.1725 -88.4342" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 50.0932 -67.38 L 48.42 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 59.9031 -74.9469 L 65.05 -69.8" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 56.325 -48.33 L 48.42 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 51.3973 -63.1251 L 51.3973 -61.0101" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.97 -49.83 L 26.95 -48.85" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.9422 -65.7922 L 65.05 -67.9" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.0 -14.4 L 59.9983 -14.4" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.0533 -46.8533 L 65.05 -48.85" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 35.62 -4.13 L 52.5422 -4.13" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.1897 -88.2653 L 66.1897 -89.4294" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.95 -86.95 L 28.7301 -85.1699" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -81.26 L 51.69 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 60.1618 -70.7484 L 61.775 -69.1352" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -41.46 L 53.415 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 13.59 -41.46 L 15.315 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 54.0644 -65.7922 L 62.9422 -65.7922" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.7718 -68.9268 L 44.7977 -68.9268" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.1897 -89.4294 L 65.636 -89.9831" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.775 -69.1352 L 61.775 -68.88" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 46.0 -86.95 L 51.69 -81.26" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.8394 -89.3536 L 44.8394 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.775 -87.93 L 64.56 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.9863 -63.5361 L 51.3973 -63.1251" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.05 -87.44 L 65.05 -86.95" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.9732 -68.9268 L 46.0 -67.9" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.02 -87.93 L 46.0 -86.95" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 15.315 -41.46 L 17.14 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.7977 -70.2581 L 45.288 -70.7484" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -41.46 L 51.69 -46.8533" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -79.56 L 53.415 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.64 -62.21 L 32.64 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.5166 -79.3866 L 36.3634 -79.3866" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.95 -47.15 L 32.64 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.2624 -41.3376 L 28.5705 -41.3376" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.7977 -68.9268 L 44.7977 -70.2581" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 13.59 -79.56 L 15.315 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.3973 -61.0101 L 51.2936 -60.9064" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 36.19 -60.51 L 36.2956 -60.4044" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 34.365 -41.46 L 36.19 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.9 -14.4 L 62.0 -14.4" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 34.365 -60.51 L 36.19 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 52.5422 -4.13 L 59.9983 -11.5861" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 36.2956 -60.4044 L 50.7916 -60.4044" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.3644 -87.44 L 66.1897 -88.2653" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.3973 -63.1251 L 54.0644 -65.7922" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 36.19 -79.56 L 34.365 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.97 -68.88 L 26.95 -67.9" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 64.07 -49.83 L 65.05 -48.85" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -87.93 L 44.8394 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 53.415 -60.51 L 55.24 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.14 -79.56 L 17.2621 -79.4379" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.7775 -40.5975 L 32.64 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.288 -70.7484 L 60.1618 -70.7484" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.4689 -89.9831 L 44.8394 -89.3536" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 46.0 -67.9 L 50.3639 -63.5361" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.636 -89.9831 L 45.4689 -89.9831" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -79.56 L 51.5166 -79.3866" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.95 -86.95 L 25.97 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.775 -49.83 L 64.07 -49.83" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.7916 -60.4044 L 51.2936 -60.9064" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 15.315 -60.51 L 17.14 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 59.9983 -11.5861 L 59.9983 -14.4" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 15.315 -79.56 L 17.14 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.95 -67.9 L 32.64 -62.21" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.675 -49.83 L 25.97 -49.83" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.0132 -40.5975 L 31.7775 -40.5975" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.7301 -85.1699 L 36.6688 -85.1699" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.95 -48.85 L 26.95 -47.15" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 69.0 -17.5 L 65.9 -14.4" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.3639 -63.5361 L 50.9863 -63.5361" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.2621 -79.4379 L 32.5179 -79.4379" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.6222 -41.3893 L 29.2214 -41.3893" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -60.51 L 53.415 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.8394 -87.93 L 45.02 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -46.8533 L 63.0533 -46.8533" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -49.83 L 45.02 -49.83" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -68.88 L 42.7718 -68.9268" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 46.0 -48.85 L 47.9967 -46.8533" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.64 -41.46 L 34.365 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.69 -60.51 L 51.2936 -60.9064" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 47.9967 -46.8533 L 51.69 -46.8533" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 13.59 -60.51 L 15.315 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 53.415 -41.46 L 55.24 -41.46" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.02 -49.83 L 46.0 -48.85" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 29.2214 -41.3893 L 30.0132 -40.5975" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.97 -87.93 L 23.675 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.7977 -68.9268 L 44.9732 -68.9268" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.05 -87.44 L 65.3644 -87.44" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.675 -68.88 L 25.97 -68.88" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 64.56 -87.93 L 65.05 -87.44" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.5705 -41.3376 L 28.6222 -41.3893" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 34.365 -79.56 L 32.64 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.5179 -79.4379 L 32.64 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.14 -41.46 L 17.2624 -41.3376" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.64 -60.51 L 34.365 -60.51" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 36.3634 -79.3866 L 36.19 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 53.415 -79.56 L 55.24 -79.56" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.1033 -28.6738 L 31.0257 -27.7514" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 35.1151 -27.7514 L 35.8169 -27.0496 L 51.1726 -27.0496" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 12.54 -27.0 L 13.9328 -28.3928" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 51.1726 -27.0496 L 52.5591 -25.6631" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 35.62 -6.67 L 54.0875 -6.67" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 20.8232 -28.3928 L 21.1042 -28.6738" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 31.0257 -27.7514 L 35.1151 -27.7514" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 13.9328 -28.3928 L 20.8232 -28.3928" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 21.1042 -28.6738 L 30.1033 -28.6738" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4" />
+    <ns0:path d="M 32.0686 -24.7428 L 40.164 -24.7428" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.5669 -24.2411 L 32.0686 -24.7428" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.3311 -24.2411 L 31.5669 -24.2411" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.0 -21.91 L 30.3311 -24.2411" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.4068 -22.5 L 54.5 -22.5" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 40.164 -24.7428 L 42.4068 -22.5" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 34.4071 -23.2371 L 33.08 -21.91" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 38.9451 -23.2371 L 34.4071 -23.2371" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 39.2341 -22.9481 L 38.9451 -23.2371" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 46.4993 -31.8028 L 46.4993 -28.2981 L 46.1036 -27.9024" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 55.9511 -23.0931 L 55.9511 -18.9511" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.5664 -25.2445 L 51.8529 -23.958" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.8608 -25.2445 L 50.5664 -25.2445" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.46 -21.91 L 28.299 -24.749" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.3653 -24.749 L 31.8608 -25.2445" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 55.9511 -18.9511 L 54.5 -17.5" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 55.0862 -23.958 L 55.9511 -23.0931" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.299 -24.749 L 31.3653 -24.749" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.8529 -23.958 L 55.0862 -23.958" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.2764 -24.2411 L 39.9561 -24.2411 L 48.0989 -16.0983 L 62.5983 -16.0983 L 69.0 -22.5" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.54 -22.5047 L 32.2764 -24.2411" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.54 -21.91 L 30.54 -22.5047" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.62 -27.0 L 20.2813 -27.0" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.3817 -26.9497 L 34.783 -26.9497" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.3534 -28.0721 L 29.2593 -28.0721" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.2813 -27.0 L 21.3534 -28.0721" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 29.2593 -28.0721 L 30.3817 -26.9497" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 32.767 -23.7394 L 32.4396 -23.412" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 35.62 -19.37 L 36.7122 -19.37" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 29.5701 -26.7688 L 29.5701 -26.8567" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 36.7122 -19.37 L 39.9803 -22.6381 L 39.9803 -23.2086" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.8114 -27.5704 L 19.9694 -25.7284" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.8564 -27.5704 L 21.8114 -27.5704" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 19.9694 -25.7284 L 16.3516 -25.7284" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 39.9803 -23.2086 L 39.4495 -23.7394 L 32.767 -23.7394" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 29.5701 -26.8567 L 28.8564 -27.5704" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 16.3516 -25.7284 L 15.08 -27.0" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.8869 -48.33 L 30.7397 -41.4772 L 30.7397 -41.3596" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.675 -48.33 L 23.8869 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.7397 -41.3596 L 30.7398 -41.3596" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.59 -57.97 L 61.59 -57.0409" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.1581 -25.2513 L 31.653 -25.7462" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.38 -14.29 L 19.0204 -15.6496" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 53.6767 -24.4597 L 66.8629 -37.6459" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 52.0607 -24.4597 L 53.6767 -24.4597" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.653 -25.7462 L 50.7742 -25.7462" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -57.1441 L 64.3141 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.8629 -37.6459 L 66.8629 -51.9505" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.59 -57.0409 L 62.3126 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 64.3141 -57.1441 L 65.14 -57.97" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -56.7312 L 63.39 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.6552 -56.903 L 65.5968 -56.9614" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 19.0204 -22.4248 L 21.8469 -25.2513" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -57.1441 L 63.39 -56.7312" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.6202 -56.9614 L 63.39 -56.7312" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.5968 -56.9614 L 63.6202 -56.9614" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.8629 -51.9505 L 65.6552 -53.1582" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.8469 -25.2513 L 31.1581 -25.2513" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.7742 -25.7462 L 52.0607 -24.4597" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.3126 -56.3183 L 63.39 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.6552 -53.1582 L 65.6552 -56.903" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 19.0204 -15.6496 L 19.0204 -22.4248" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -57.97 L 63.39 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.8551 -68.3284 L 61.9067 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.8551 -69.3454 L 62.8551 -68.3284" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.0662 -70.9527 L 44.3636 -71.2501 L 60.9504 -71.2501" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 39.1061 -70.9527 L 44.0662 -70.9527" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 60.9504 -71.2501 L 62.8551 -69.3454" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.9067 -67.38 L 61.775 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 37.275 -69.1216 L 39.1061 -70.9527" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 37.275 -68.88 L 37.275 -69.1216" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 56.325 -68.88 L 49.0462 -68.88" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 38.311 -84.4682 L 38.6015 -84.7587" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.675 -86.43 L 25.6368 -84.4682 L 38.311 -84.4682" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.6291 -62.6466 L 23.8957 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.6291 -61.5022 L 28.6291 -62.6466" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.8957 -67.38 L 23.675 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 56.325 -49.83 L 51.882 -49.83" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 51.882 -53.6698 L 36.4615 -53.6698 L 28.6291 -61.5022" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.7055 -71.6689 L 43.1153 -71.6689" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.225 -68.88 L 18.225 -69.1884" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -67.38 L 43.0708 -67.38" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.225 -69.1884 L 20.7055 -71.6689" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 43.0708 -67.38 L 43.9159 -68.2251" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -76.1941 L 25.29 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -76.1941 L 26.2141 -76.1941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 16.7 -29.9 L 16.7 -35.1" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 24.2126 -75.3683 L 25.29 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -77.02 L 25.29 -76.1941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -76.0909 L 24.2126 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -77.02 L 23.49 -76.0909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.2141 -76.1941 L 27.04 -77.02" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -48.33 L 44.238 -48.33" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.9401 -52.8212 L 18.225 -50.1061" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 46.1403 -52.8212 L 20.9401 -52.8212" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.225 -50.1061 L 18.225 -49.83" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.238 -48.33 L 45.3041 -47.2639 L 46.1403 -47.2639" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.775 -48.33 L 61.9375 -48.4925" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 37.275 -49.83 L 37.275 -50.0708" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.9375 -48.4925 L 63.3288 -48.4925" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 37.275 -50.0708 L 39.1006 -51.8964 L 63.3288 -51.8964" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 19.8736 -90.0205 L 20.0118 -90.0205" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -86.43 L 42.725 -85.5211" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 19.4625 -89.6094 L 19.8736 -90.0205" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.225 -88.2337 L 19.4625 -89.4712 L 19.4625 -89.6094" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.725 -85.5211 L 42.8333 -85.4128" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.7386 -91.7473 L 42.8333 -91.7473" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.0118 -90.0205 L 21.7386 -91.7473" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.225 -87.93 L 18.225 -88.2337" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.2141 -57.1441 L 27.04 -57.97" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -57.0409 L 12.5974 -57.0409" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -57.1441 L 25.29 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -57.97 L 25.29 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -57.97 L 23.49 -57.0409 L 24.2126 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -57.1441 L 26.2141 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 24.2126 -56.3183 L 25.29 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.6914 -89.6372 L 65.8438 -90.4848" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.775 -86.43 L 62.1861 -86.0189" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.7857 -86.0189 L 66.6914 -86.9246" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 39.5281 -90.4848 L 37.275 -88.2317" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.1861 -86.0189 L 65.7857 -86.0189" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 66.6914 -86.9246 L 66.6914 -89.6372" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.8438 -90.4848 L 39.5281 -90.4848" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 37.275 -88.2317 L 37.275 -87.93" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -57.1441 L 44.34 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.3862 -29.2907 L 13.8283 -29.2907" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -56.3183 L 43.3046 -56.3183" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.54 -57.0829 L 42.54 -57.97" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.2641 -57.1441 L 46.09 -57.97" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.9128 -37.8173 L 20.3862 -29.2907" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -57.1441 L 45.2641 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 28.9128 -40.6876 L 28.9128 -37.8173" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -57.97 L 44.34 -57.1441" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 43.3046 -56.3183 L 42.54 -57.0829" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -76.1941 L 64.3141 -76.1941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.59 -77.02 L 61.59 -76.0909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 64.3141 -76.1941 L 65.14 -77.02" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -77.02 L 63.39 -76.1941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.3126 -75.3683 L 63.39 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -76.1941 L 63.39 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 61.59 -76.0909 L 62.3126 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -38.92 L 25.29 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 8.7466 -28.0217 L 18.7158 -37.9909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -37.9909 L 24.2126 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.38 -1.59 L 8.7466 -13.2234" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 26.2141 -38.0941 L 27.04 -38.92" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -38.0941 L 26.2141 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 8.7466 -13.2234 L 8.7466 -28.0217" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 25.29 -38.0941 L 25.29 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 24.2126 -37.2683 L 25.29 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 23.49 -38.92 L 23.49 -37.9909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.7158 -37.9909 L 23.49 -37.9909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 33.3707 -28.8216 L 31.0892 -28.8216" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.9369 -6.5731 L 17.9369 -22.7735" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.9989 -26.8355 L 28.5873 -26.8355" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -38.92 L 44.34 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.2641 -38.0941 L 46.09 -38.92" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.54 -37.9909 L 43.2626 -37.2683 L 44.34 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.38 -4.13 L 17.9369 -6.5731" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -38.0941 L 44.34 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 17.9369 -22.7735 L 21.9989 -26.8355" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.54 -38.92 L 42.54 -37.9909 L 33.3707 -28.8216" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -38.0941 L 45.2641 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 30.962 -25.7647 L 31.4452 -26.2479" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -38.0941 L 63.39 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 64.4174 -37.2683 L 65.14 -37.9909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 62.4159 -38.0941 L 61.59 -38.92" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -38.0941 L 62.4159 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.4872 -22.6108 L 21.6411 -25.7647" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 20.38 -6.67 L 18.4872 -8.5628" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -35.4211 L 63.39 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 65.14 -37.9909 L 65.14 -38.92" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 50.982 -26.2479 L 52.2685 -24.9614" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 18.4872 -8.5628 L 18.4872 -22.6108" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -38.92 L 63.39 -38.0941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 52.2685 -24.9614 L 52.9303 -24.9614" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 63.39 -37.2683 L 64.4174 -37.2683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 52.9303 -24.9614 L 63.39 -35.4211" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 21.6411 -25.7647 L 30.962 -25.7647" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 31.4452 -26.2479 L 50.982 -26.2479" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 43.2626 -75.3683 L 44.34 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -77.02 L 44.34 -76.1941 L 44.34 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 44.34 -76.1941 L 45.2641 -76.1941" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.54 -76.0909 L 43.2626 -75.3683" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 42.54 -77.02 L 42.54 -76.0909" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+    <ns0:path d="M 45.2641 -76.1941 L 46.09 -77.02" fill="none" stroke="#2467a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2" />
+  </ns0:g>
+  <ns0:g stroke-linejoin="round" stroke-linecap="round" id="l-drill-pth" transform="translate(0 -95.99999999999933) scale(1 -1)">
+    <ns0:circle cx="12.597" cy="-57.041" r="0.15" fill="white" />
+    <ns0:circle cx="13.828" cy="-29.291" r="0.15" fill="white" />
+    <ns0:circle cx="16.163" cy="-85.897" r="0.15" fill="white" />
+    <ns0:circle cx="16.7" cy="-29.9" r="0.15" fill="white" />
+    <ns0:circle cx="16.7" cy="-35.1" r="0.15" fill="white" />
+    <ns0:circle cx="20.164" cy="-89.319" r="0.15" fill="white" />
+    <ns0:circle cx="28.587" cy="-26.835" r="0.15" fill="white" />
+    <ns0:circle cx="28.913" cy="-40.688" r="0.15" fill="white" />
+    <ns0:circle cx="29.57" cy="-26.769" r="0.15" fill="white" />
+    <ns0:circle cx="30.74" cy="-41.36" r="0.15" fill="white" />
+    <ns0:circle cx="31.089" cy="-28.822" r="0.15" fill="white" />
+    <ns0:circle cx="32.44" cy="-23.412" r="0.15" fill="white" />
+    <ns0:circle cx="34.783" cy="-26.95" r="0.15" fill="white" />
+    <ns0:circle cx="36.626" cy="-28.06" r="0.15" fill="white" />
+    <ns0:circle cx="36.669" cy="-85.17" r="0.15" fill="white" />
+    <ns0:circle cx="38.602" cy="-84.759" r="0.15" fill="white" />
+    <ns0:circle cx="39.234" cy="-22.948" r="0.15" fill="white" />
+    <ns0:circle cx="40.0" cy="-31.105" r="0.15" fill="white" />
+    <ns0:circle cx="42.753" cy="-46.89" r="0.15" fill="white" />
+    <ns0:circle cx="42.753" cy="-50.853" r="0.15" fill="white" />
+    <ns0:circle cx="42.833" cy="-85.413" r="0.15" fill="white" />
+    <ns0:circle cx="42.833" cy="-91.747" r="0.15" fill="white" />
+    <ns0:circle cx="43.115" cy="-71.669" r="0.15" fill="white" />
+    <ns0:circle cx="43.916" cy="-68.225" r="0.15" fill="white" />
+    <ns0:circle cx="46.104" cy="-27.902" r="0.15" fill="white" />
+    <ns0:circle cx="46.14" cy="-47.264" r="0.15" fill="white" />
+    <ns0:circle cx="46.14" cy="-52.821" r="0.15" fill="white" />
+    <ns0:circle cx="46.499" cy="-31.803" r="0.15" fill="white" />
+    <ns0:circle cx="49.046" cy="-68.88" r="0.15" fill="white" />
+    <ns0:circle cx="50.093" cy="-62.834" r="0.15" fill="white" />
+    <ns0:circle cx="50.093" cy="-64.811" r="0.15" fill="white" />
+    <ns0:circle cx="51.882" cy="-49.83" r="0.15" fill="white" />
+    <ns0:circle cx="51.882" cy="-53.67" r="0.15" fill="white" />
+    <ns0:circle cx="52.559" cy="-25.663" r="0.15" fill="white" />
+    <ns0:circle cx="54.087" cy="-6.67" r="0.15" fill="white" />
+    <ns0:circle cx="58.521" cy="-73.565" r="0.15" fill="white" />
+    <ns0:circle cx="63.329" cy="-48.492" r="0.15" fill="white" />
+    <ns0:circle cx="63.329" cy="-51.896" r="0.15" fill="white" />
+    <ns0:circle cx="10.0" cy="-27.0" r="0.5" fill="white" />
+    <ns0:circle cx="12.54" cy="-27.0" r="0.5" fill="white" />
+    <ns0:circle cx="15.08" cy="-27.0" r="0.5" fill="white" />
+    <ns0:circle cx="17.62" cy="-27.0" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-1.59" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-4.13" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-6.67" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-9.21" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-11.75" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-14.29" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-16.83" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-19.37" r="0.5" fill="white" />
+    <ns0:circle cx="20.38" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="22.92" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="25.46" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="28.0" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="30.54" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="33.08" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-1.59" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-4.13" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-6.67" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-9.21" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-11.75" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-14.29" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-16.83" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-19.37" r="0.5" fill="white" />
+    <ns0:circle cx="35.62" cy="-21.91" r="0.5" fill="white" />
+    <ns0:circle cx="54.5" cy="-17.5" r="0.5" fill="white" />
+    <ns0:circle cx="54.5" cy="-20.0" r="0.5" fill="white" />
+    <ns0:circle cx="54.5" cy="-22.5" r="0.5" fill="white" />
+    <ns0:circle cx="69.0" cy="-17.5" r="0.5" fill="white" />
+    <ns0:circle cx="69.0" cy="-22.5" r="0.5" fill="white" />
+    <ns0:circle cx="17.14" cy="-41.46" r="1.5" fill="white" />
+    <ns0:circle cx="17.14" cy="-60.51" r="1.5" fill="white" />
+    <ns0:circle cx="17.14" cy="-79.56" r="1.5" fill="white" />
+    <ns0:circle cx="23.49" cy="-38.92" r="1.5" fill="white" />
+    <ns0:circle cx="23.49" cy="-57.97" r="1.5" fill="white" />
+    <ns0:circle cx="23.49" cy="-77.02" r="1.5" fill="white" />
+    <ns0:circle cx="36.19" cy="-41.46" r="1.5" fill="white" />
+    <ns0:circle cx="36.19" cy="-60.51" r="1.5" fill="white" />
+    <ns0:circle cx="36.19" cy="-79.56" r="1.5" fill="white" />
+    <ns0:circle cx="42.54" cy="-38.92" r="1.5" fill="white" />
+    <ns0:circle cx="42.54" cy="-57.97" r="1.5" fill="white" />
+    <ns0:circle cx="42.54" cy="-77.02" r="1.5" fill="white" />
+    <ns0:circle cx="55.24" cy="-41.46" r="1.5" fill="white" />
+    <ns0:circle cx="55.24" cy="-60.51" r="1.5" fill="white" />
+    <ns0:circle cx="55.24" cy="-79.56" r="1.5" fill="white" />
+    <ns0:circle cx="61.59" cy="-38.92" r="1.5" fill="white" />
+    <ns0:circle cx="61.59" cy="-57.97" r="1.5" fill="white" />
+    <ns0:circle cx="61.59" cy="-77.02" r="1.5" fill="white" />
+    <ns0:path d="M 61.35 -14.4 L 62.65 -14.4" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <ns0:path d="M 61.35 -25.6 L 62.65 -25.6" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+  </ns0:g>
+  <ns0:g stroke-linejoin="round" stroke-linecap="round" id="l-drill-npth" transform="translate(0 -95.99999999999933) scale(1 -1)">
+    <ns0:circle cx="15.87" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="15.87" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="15.87" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="26.03" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="26.03" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="26.03" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="34.92" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="34.92" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="34.92" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="45.08" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="45.08" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="45.08" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="53.97" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="53.97" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="53.97" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="64.13" cy="-44.0" r="0.875" fill="#333333" />
+    <ns0:circle cx="64.13" cy="-63.05" r="0.875" fill="#333333" />
+    <ns0:circle cx="64.13" cy="-82.1" r="0.875" fill="#333333" />
+    <ns0:circle cx="4.0" cy="-4.0" r="1.35" fill="#333333" />
+    <ns0:circle cx="4.0" cy="-92.0" r="1.35" fill="#333333" />
+    <ns0:circle cx="76.0" cy="-4.0" r="1.35" fill="#333333" />
+    <ns0:circle cx="76.0" cy="-92.0" r="1.35" fill="#333333" />
+    <ns0:circle cx="20.95" cy="-44.0" r="1.994" fill="#333333" />
+    <ns0:circle cx="20.95" cy="-63.05" r="1.994" fill="#333333" />
+    <ns0:circle cx="20.95" cy="-82.1" r="1.994" fill="#333333" />
+    <ns0:circle cx="40.0" cy="-44.0" r="1.994" fill="#333333" />
+    <ns0:circle cx="40.0" cy="-63.05" r="1.994" fill="#333333" />
+    <ns0:circle cx="40.0" cy="-82.1" r="1.994" fill="#333333" />
+    <ns0:circle cx="59.05" cy="-44.0" r="1.994" fill="#333333" />
+    <ns0:circle cx="59.05" cy="-63.05" r="1.994" fill="#333333" />
+    <ns0:circle cx="59.05" cy="-82.1" r="1.994" fill="#333333" />
+  </ns0:g>
+</ns0:g></ns0:svg>

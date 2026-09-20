@@ -1,0 +1,1049 @@
+{
+  "pcb_mm": [
+    80,
+    96,
+    1.6
+  ],
+  "pitch_mm": 19.05,
+  "switch_centers": [
+    [
+      20.95,
+      44.0
+    ],
+    [
+      40.0,
+      44.0
+    ],
+    [
+      59.05,
+      44.0
+    ],
+    [
+      20.95,
+      63.05
+    ],
+    [
+      40.0,
+      63.05
+    ],
+    [
+      59.05,
+      63.05
+    ],
+    [
+      20.95,
+      82.1
+    ],
+    [
+      40.0,
+      82.1
+    ],
+    [
+      59.05,
+      82.1
+    ]
+  ],
+  "mounting_holes": [
+    [
+      4,
+      4
+    ],
+    [
+      76,
+      4
+    ],
+    [
+      4,
+      92
+    ],
+    [
+      76,
+      92
+    ]
+  ],
+  "encoder_center": [
+    62,
+    20
+  ],
+  "oled_center": [
+    27,
+    18
+  ],
+  "oled_module_mm": [
+    36,
+    12.5
+  ],
+  "module_center": [
+    28,
+    11.75
+  ],
+  "module_mm": [
+    18,
+    23.5
+  ],
+  "parts": [
+    {
+      "ref": "U1",
+      "value": "Waveshare RP2040-Zero",
+      "footprint": "Goober:RP2040_Zero_Headers",
+      "x": 28,
+      "y": 11.75,
+      "side": "B",
+      "pins": {
+        "1": "KEY1",
+        "2": "KEY2",
+        "3": "KEY3",
+        "4": "KEY4",
+        "5": "KEY5",
+        "6": "KEY6",
+        "7": "KEY7",
+        "8": "KEY8",
+        "9": "KEY9",
+        "10": "LED_EN",
+        "11": "ENC_A",
+        "12": "ENC_B",
+        "13": "ENC_SW",
+        "14": "RGB_DATA",
+        "15": "OLED_SDA",
+        "16": "OLED_SCL",
+        "17": null,
+        "18": null,
+        "19": null,
+        "20": null,
+        "21": "+3V3",
+        "22": "GND",
+        "23": "+5V_USB"
+      },
+      "pin_names": {
+        "1": "GP0",
+        "2": "GP1",
+        "3": "GP2",
+        "4": "GP3",
+        "5": "GP4",
+        "6": "GP5",
+        "7": "GP6",
+        "8": "GP7",
+        "9": "GP8",
+        "10": "GP9",
+        "11": "GP10",
+        "12": "GP11",
+        "13": "GP12",
+        "14": "GP13",
+        "15": "GP14",
+        "16": "GP15",
+        "17": "GP26",
+        "18": "GP27",
+        "19": "GP28",
+        "20": "GP29",
+        "21": "3V3_OUT",
+        "22": "GND",
+        "23": "5V_USB"
+      },
+      "pin_types": {
+        "1": "bidirectional",
+        "2": "bidirectional",
+        "3": "bidirectional",
+        "4": "bidirectional",
+        "5": "bidirectional",
+        "6": "bidirectional",
+        "7": "bidirectional",
+        "8": "bidirectional",
+        "9": "bidirectional",
+        "10": "bidirectional",
+        "11": "bidirectional",
+        "12": "bidirectional",
+        "13": "bidirectional",
+        "14": "bidirectional",
+        "15": "bidirectional",
+        "16": "bidirectional",
+        "17": "bidirectional",
+        "18": "bidirectional",
+        "19": "bidirectional",
+        "20": "bidirectional",
+        "21": "power_out",
+        "22": "power_out",
+        "23": "power_out"
+      },
+      "uuid": "fdd439ff-4300-4dd0-80f9-6dfc7d8b37d6"
+    },
+    {
+      "ref": "SW1",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 20.95,
+      "y": 44.0,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY1"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "d1d61c67-e961-4c57-9b55-54b4966406bc"
+    },
+    {
+      "ref": "D1",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 20.95,
+      "y": 49.08,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN1",
+        "3": "+5V_LED",
+        "4": "LED_DIN2"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "80551817-c28e-42ca-93b1-97b609125b33"
+    },
+    {
+      "ref": "C1",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 26.95,
+      "y": 49.8,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "e2220ffe-8ae2-4bfd-9207-27db58c4ef8c"
+    },
+    {
+      "ref": "SW2",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 40.0,
+      "y": 44.0,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY2"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "e0e15cbd-87ce-497b-b412-0a6fd54fddbc"
+    },
+    {
+      "ref": "D2",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 40.0,
+      "y": 49.08,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN2",
+        "3": "+5V_LED",
+        "4": "LED_DIN3"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "3fa2cdfa-84b5-42ae-abaa-7fc0498a1ae5"
+    },
+    {
+      "ref": "C2",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 46.0,
+      "y": 49.8,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "6e03d707-a2a3-4ad6-a9a8-1cc581f17dec"
+    },
+    {
+      "ref": "SW3",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 59.05,
+      "y": 44.0,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY3"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "f1aa0980-eced-4f36-aa8c-398aa18776cc"
+    },
+    {
+      "ref": "D3",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 59.05,
+      "y": 49.08,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN3",
+        "3": "+5V_LED",
+        "4": "LED_DIN4"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "a0b15ffc-55da-4ca4-abc9-987b7a094b5b"
+    },
+    {
+      "ref": "C3",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 65.05,
+      "y": 49.8,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "ce65114c-7032-4cde-a130-37dc9f8da39f"
+    },
+    {
+      "ref": "SW4",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 20.95,
+      "y": 63.05,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY4"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "6ba64bba-4fb3-403a-a785-a552f4f60276"
+    },
+    {
+      "ref": "D4",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 20.95,
+      "y": 68.13,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN4",
+        "3": "+5V_LED",
+        "4": "LED_DIN5"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "3cefaf3f-50d7-4753-8c43-a81c6fedfa1b"
+    },
+    {
+      "ref": "C4",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 26.95,
+      "y": 68.85,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "1463a17b-78ac-4b89-9890-60206f5c0e3a"
+    },
+    {
+      "ref": "SW5",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 40.0,
+      "y": 63.05,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY5"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "9be98ad2-4e88-4c3a-80e7-7f12d9b42fdd"
+    },
+    {
+      "ref": "D5",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 40.0,
+      "y": 68.13,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN5",
+        "3": "+5V_LED",
+        "4": "LED_DIN6"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "e1ef5e32-ab18-4d63-83a4-86ca1d143f08"
+    },
+    {
+      "ref": "C5",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 46.0,
+      "y": 68.85,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "8053d21d-eca0-4234-b984-b14245cadc16"
+    },
+    {
+      "ref": "SW6",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 59.05,
+      "y": 63.05,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY6"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "1cfb1e9a-4ede-49d9-837f-de441e00929b"
+    },
+    {
+      "ref": "D6",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 59.05,
+      "y": 68.13,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN6",
+        "3": "+5V_LED",
+        "4": "LED_DIN7"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "238a91c8-230f-4760-96f3-70d76e37fbc4"
+    },
+    {
+      "ref": "C6",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 65.05,
+      "y": 68.85,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "82c6c5bc-5777-4c89-a8f7-5a7f213b22d2"
+    },
+    {
+      "ref": "SW7",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 20.95,
+      "y": 82.1,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY7"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "3dfabeb4-7259-4d04-97b6-1458dbff4d4f"
+    },
+    {
+      "ref": "D7",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 20.95,
+      "y": 87.17999999999999,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN7",
+        "3": "+5V_LED",
+        "4": "LED_DIN8"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "47a03108-6b01-4896-9315-ce5d8432624a"
+    },
+    {
+      "ref": "C7",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 26.95,
+      "y": 87.89999999999999,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "38fcd668-b1cc-4c44-8248-d48479fb3da8"
+    },
+    {
+      "ref": "SW8",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 40.0,
+      "y": 82.1,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY8"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "f283c429-41f3-4c97-b87c-a008e51d3315"
+    },
+    {
+      "ref": "D8",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 40.0,
+      "y": 87.17999999999999,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN8",
+        "3": "+5V_LED",
+        "4": "LED_DIN9"
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "72c413f9-e81d-45cf-9fd4-1d486af23439"
+    },
+    {
+      "ref": "C8",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 46.0,
+      "y": 87.89999999999999,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "3a348ac7-5bfb-40ba-addc-ffd4b2955e56"
+    },
+    {
+      "ref": "SW9",
+      "value": "Kailh CPG151101S11",
+      "footprint": "Goober:SW_MX_HS_CPG151101S11_1u",
+      "x": 59.05,
+      "y": 82.1,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "KEY9"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "a5cde6e5-2965-4749-92b2-0168f946f484"
+    },
+    {
+      "ref": "D9",
+      "value": "SK6812MINI-E",
+      "footprint": "Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+      "x": 59.05,
+      "y": 87.17999999999999,
+      "side": "B",
+      "pins": {
+        "1": "GND",
+        "2": "LED_DIN9",
+        "3": "+5V_LED",
+        "4": null
+      },
+      "pin_names": {
+        "1": "VSS",
+        "2": "DIN",
+        "3": "VDD",
+        "4": "DOUT"
+      },
+      "pin_types": {
+        "1": "power_in",
+        "2": "input",
+        "3": "power_in",
+        "4": "output"
+      },
+      "uuid": "95b86475-3750-4076-964b-6ba51232e8de"
+    },
+    {
+      "ref": "C9",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 65.05,
+      "y": 87.89999999999999,
+      "side": "B",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "b99bd9a3-1e44-40c6-a41a-03b17cc6f14a"
+    },
+    {
+      "ref": "ENC1",
+      "value": "ALPS EC11E15244G1",
+      "footprint": "Goober:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",
+      "x": 54.5,
+      "y": 17.5,
+      "side": "F",
+      "pins": {
+        "A": "ENC_A",
+        "B": "ENC_B",
+        "C": "GND",
+        "S1": "ENC_SW",
+        "S2": "GND",
+        "MP": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "80dad014-21a6-4bcc-82ff-186b825b3391"
+    },
+    {
+      "ref": "J1",
+      "value": "OLED: GND 3V3 SCL SDA",
+      "footprint": "Goober:PinHeader_1x04_P2.54mm_Vertical",
+      "x": 10,
+      "y": 27,
+      "side": "F",
+      "pins": {
+        "1": "GND",
+        "2": "+3V3",
+        "3": "OLED_SCL",
+        "4": "OLED_SDA"
+      },
+      "pin_names": {
+        "1": "GND",
+        "2": "VCC",
+        "3": "SCL",
+        "4": "SDA"
+      },
+      "pin_types": {},
+      "uuid": "a49c5852-0a94-4dec-b70a-55b6f12026ba"
+    },
+    {
+      "ref": "U2",
+      "value": "SN74AHCT125D",
+      "footprint": "Goober:SOIC-14_3.9x8.7mm_P1.27mm",
+      "x": 47,
+      "y": 29,
+      "side": "F",
+      "pins": {
+        "1": "LED_GATE_N",
+        "2": "RGB_DATA",
+        "3": "RGB_5V",
+        "4": "+5V_USB",
+        "5": "GND",
+        "6": null,
+        "7": "GND",
+        "8": null,
+        "9": "GND",
+        "10": "+5V_USB",
+        "11": null,
+        "12": "GND",
+        "13": "+5V_USB",
+        "14": "+5V_USB"
+      },
+      "pin_names": {
+        "1": "~OE1",
+        "2": "A1",
+        "3": "Y1",
+        "4": "~OE2",
+        "5": "A2",
+        "6": "Y2",
+        "7": "GND",
+        "8": "Y3",
+        "9": "A3",
+        "10": "~OE3",
+        "11": "Y4",
+        "12": "A4",
+        "13": "~OE4",
+        "14": "VCC"
+      },
+      "pin_types": {
+        "1": "input",
+        "2": "input",
+        "3": "tri_state",
+        "4": "input",
+        "5": "input",
+        "6": "tri_state",
+        "7": "power_in",
+        "8": "tri_state",
+        "9": "input",
+        "10": "input",
+        "11": "tri_state",
+        "12": "input",
+        "13": "input",
+        "14": "power_in"
+      },
+      "uuid": "7b5ed9e6-28ee-45d4-a87e-8c47d784dd03"
+    },
+    {
+      "ref": "Q1",
+      "value": "AO3401A P-MOSFET",
+      "footprint": "Goober:SOT-23",
+      "x": 35,
+      "y": 29,
+      "side": "F",
+      "pins": {
+        "1": "LED_GATE_N",
+        "2": "+5V_FUSED",
+        "3": "+5V_LED"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {},
+      "uuid": "dd065c19-6567-49ee-bdc9-49d2c24cf725"
+    },
+    {
+      "ref": "Q2",
+      "value": "MMBT3904 NPN",
+      "footprint": "Goober:SOT-23",
+      "x": 26,
+      "y": 30,
+      "side": "F",
+      "pins": {
+        "1": "LED_BASE",
+        "2": "GND",
+        "3": "LED_GATE_N"
+      },
+      "pin_names": {
+        "1": "B",
+        "2": "E",
+        "3": "C"
+      },
+      "pin_types": {},
+      "uuid": "50274a20-183e-4a78-90a6-f4675a48612e"
+    },
+    {
+      "ref": "R1",
+      "value": "100k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 35,
+      "y": 33,
+      "side": "F",
+      "pins": {
+        "1": "+5V_FUSED",
+        "2": "LED_GATE_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "25834ccb-cdd0-4dcb-b2ad-2d6df0be6418"
+    },
+    {
+      "ref": "R2",
+      "value": "10k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 22,
+      "y": 30,
+      "side": "F",
+      "pins": {
+        "1": "LED_EN",
+        "2": "LED_BASE"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "acf58cf7-f56a-48af-89ea-fe1a78ee055c"
+    },
+    {
+      "ref": "R3",
+      "value": "100k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 27,
+      "y": 34,
+      "side": "F",
+      "pins": {
+        "1": "LED_BASE",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "db58e110-b003-4833-bfcd-1ff193e7f5eb"
+    },
+    {
+      "ref": "R4",
+      "value": "330R",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 47,
+      "y": 36,
+      "side": "F",
+      "pins": {
+        "1": "RGB_5V",
+        "2": "LED_DIN1"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "ef44f314-357a-4a09-9aae-846af0ab083d"
+    },
+    {
+      "ref": "R5",
+      "value": "4.7k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 10,
+      "y": 31,
+      "side": "F",
+      "pins": {
+        "1": "+3V3",
+        "2": "OLED_SDA"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "923ae496-d70d-4e08-8247-c65a24bbb414"
+    },
+    {
+      "ref": "R6",
+      "value": "4.7k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 15,
+      "y": 31,
+      "side": "F",
+      "pins": {
+        "1": "+3V3",
+        "2": "OLED_SCL"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "b8d0e43d-cca4-4d69-b326-ca071774f8c0"
+    },
+    {
+      "ref": "R7",
+      "value": "3.3k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 55,
+      "y": 10,
+      "side": "F",
+      "pins": {
+        "1": "+3V3",
+        "2": "ENC_A"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "caa5b24c-cb44-4510-9d17-6d9607545f87"
+    },
+    {
+      "ref": "R8",
+      "value": "3.3k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 61,
+      "y": 10,
+      "side": "F",
+      "pins": {
+        "1": "+3V3",
+        "2": "ENC_B"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "4f7337df-254e-40ee-9402-59ed0f219600"
+    },
+    {
+      "ref": "R9",
+      "value": "4.7k",
+      "footprint": "Goober:R_0805_2012Metric",
+      "x": 68,
+      "y": 10,
+      "side": "F",
+      "pins": {
+        "1": "+3V3",
+        "2": "ENC_SW"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "a728cc78-da37-4e27-b5e0-a6377ff40af8"
+    },
+    {
+      "ref": "C10",
+      "value": "100nF 16V X7R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 42,
+      "y": 23,
+      "side": "F",
+      "pins": {
+        "1": "+5V_USB",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "342226aa-4b47-4c12-8fe5-ccf94cdc9a26"
+    },
+    {
+      "ref": "C11",
+      "value": "4.7uF 16V X5R",
+      "footprint": "Goober:C_0805_2012Metric",
+      "x": 40,
+      "y": 29,
+      "side": "F",
+      "pins": {
+        "1": "+5V_LED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "31ece914-e33c-4e89-a6aa-d03a2e7218f9"
+    },
+    {
+      "ref": "F1",
+      "value": "1206L050YR 0.5A PTC",
+      "footprint": "Goober:Fuse_1206_3216Metric",
+      "x": 42,
+      "y": 7,
+      "side": "F",
+      "pins": {
+        "1": "+5V_USB",
+        "2": "+5V_FUSED"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "2c06962f-6de5-40ee-948a-1737380658d8"
+    },
+    {
+      "ref": "H1",
+      "value": "M2.5 mounting",
+      "footprint": "Goober:MountingHole_2.7mm_M2.5",
+      "x": 4,
+      "y": 4,
+      "side": "F",
+      "pins": {},
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "42c0277b-7561-4355-8a11-e39abc0b79fc"
+    },
+    {
+      "ref": "H2",
+      "value": "M2.5 mounting",
+      "footprint": "Goober:MountingHole_2.7mm_M2.5",
+      "x": 76,
+      "y": 4,
+      "side": "F",
+      "pins": {},
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "c371a104-c8ce-42bb-a4cf-5b3aa4001c43"
+    },
+    {
+      "ref": "H3",
+      "value": "M2.5 mounting",
+      "footprint": "Goober:MountingHole_2.7mm_M2.5",
+      "x": 4,
+      "y": 92,
+      "side": "F",
+      "pins": {},
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "cbc703b5-ae02-4662-ae83-3c21825c15c3"
+    },
+    {
+      "ref": "H4",
+      "value": "M2.5 mounting",
+      "footprint": "Goober:MountingHole_2.7mm_M2.5",
+      "x": 76,
+      "y": 92,
+      "side": "F",
+      "pins": {},
+      "pin_names": {},
+      "pin_types": {},
+      "uuid": "ac9f636e-757f-4e49-9fb6-c6f5a28863eb"
+    }
+  ]
+}

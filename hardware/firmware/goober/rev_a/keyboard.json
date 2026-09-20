@@ -1,0 +1,238 @@
+{
+  "keyboard_name": "Goober Rev A",
+  "manufacturer": "Goober",
+  "maintainer": "maxthorson",
+  "processor": "RP2040",
+  "bootloader": "rp2040",
+  "usb": {
+    "vid": "0xFEED",
+    "pid": "0x0901",
+    "device_version": "0.1.0",
+    "max_power": 500
+  },
+  "features": {
+    "bootmagic": true,
+    "extrakey": true,
+    "nkro": true,
+    "encoder": true,
+    "oled": true,
+    "rgb_matrix": true
+  },
+  "matrix_pins": {
+    "direct": [
+      [
+        "GP0",
+        "GP1",
+        "GP2"
+      ],
+      [
+        "GP3",
+        "GP4",
+        "GP5"
+      ],
+      [
+        "GP6",
+        "GP7",
+        "GP8"
+      ],
+      [
+        "GP12",
+        null,
+        null
+      ]
+    ]
+  },
+  "encoder": {
+    "rotary": [
+      {
+        "pin_a": "GP10",
+        "pin_b": "GP11",
+        "resolution": 2
+      }
+    ]
+  },
+  "ws2812": {
+    "pin": "GP13",
+    "driver": "vendor"
+  },
+  "rgb_matrix": {
+    "driver": "ws2812",
+    "animations": {
+      "cycle_all": true,
+      "cycle_left_right": true,
+      "breathing": true,
+      "solid_reactive_simple": true,
+      "gradient_left_right": true
+    },
+    "layout": [
+      {
+        "matrix": [
+          0,
+          0
+        ],
+        "x": 0,
+        "y": 0,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          0,
+          1
+        ],
+        "x": 112,
+        "y": 0,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          0,
+          2
+        ],
+        "x": 224,
+        "y": 0,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          1,
+          0
+        ],
+        "x": 0,
+        "y": 32,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          1,
+          1
+        ],
+        "x": 112,
+        "y": 32,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          1,
+          2
+        ],
+        "x": 224,
+        "y": 32,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          2,
+          0
+        ],
+        "x": 0,
+        "y": 64,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          2,
+          1
+        ],
+        "x": 112,
+        "y": 64,
+        "flags": 4
+      },
+      {
+        "matrix": [
+          2,
+          2
+        ],
+        "x": 224,
+        "y": 64,
+        "flags": 4
+      }
+    ]
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {
+          "matrix": [
+            0,
+            0
+          ],
+          "x": 0,
+          "y": 1
+        },
+        {
+          "matrix": [
+            0,
+            1
+          ],
+          "x": 1,
+          "y": 1
+        },
+        {
+          "matrix": [
+            0,
+            2
+          ],
+          "x": 2,
+          "y": 1
+        },
+        {
+          "matrix": [
+            1,
+            0
+          ],
+          "x": 0,
+          "y": 2
+        },
+        {
+          "matrix": [
+            1,
+            1
+          ],
+          "x": 1,
+          "y": 2
+        },
+        {
+          "matrix": [
+            1,
+            2
+          ],
+          "x": 2,
+          "y": 2
+        },
+        {
+          "matrix": [
+            2,
+            0
+          ],
+          "x": 0,
+          "y": 3
+        },
+        {
+          "matrix": [
+            2,
+            1
+          ],
+          "x": 1,
+          "y": 3
+        },
+        {
+          "matrix": [
+            2,
+            2
+          ],
+          "x": 2,
+          "y": 3
+        },
+        {
+          "matrix": [
+            3,
+            0
+          ],
+          "x": 2,
+          "y": 0
+        }
+      ]
+    }
+  },
+  "debounce": 5
+}

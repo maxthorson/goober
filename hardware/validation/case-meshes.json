@@ -1,0 +1,42 @@
+{
+  "goober-base.stl": {
+    "watertight": true,
+    "bodies": 1,
+    "dimensions_mm": [
+      86.0,
+      102.0,
+      16.5
+    ],
+    "volume_mm3": 34288.80598170222
+  },
+  "goober-fit-coupon.stl": {
+    "watertight": true,
+    "bodies": 2,
+    "dimensions_mm": [
+      82.0,
+      27.0,
+      6.0
+    ],
+    "volume_mm3": 3819.9552896710825
+  },
+  "goober-lid.stl": {
+    "watertight": true,
+    "bodies": 1,
+    "dimensions_mm": [
+      86.0,
+      102.0,
+      11.0
+    ],
+    "volume_mm3": 14847.554165411313
+  },
+  "goober-knob.stl": {
+    "watertight": true,
+    "bodies": 1,
+    "dimensions_mm": [
+      20.099999999999998,
+      20.0,
+      14.0
+    ],
+    "volume_mm3": 4098.05798887608
+  }
+}

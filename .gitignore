@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules/
 /.pnp
 .pnp.*
 .yarn/*
@@ -11,24 +11,26 @@
 !.yarn/versions
 
 # testing
-/coverage
+coverage/
 
 # next.js
-/.next/
-/out/
+.next/
+out/
 
 # production
-/build
+build/
 
 # misc
 .DS_Store
 *.pem
+*.lck
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+*.log
 
 # env files (can opt-in for committing if needed)
 .env*
@@ -39,3 +41,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# hardware tool caches and local installs
+hardware/tools/KiCad.dmg
+hardware/tools/OpenSCAD.dmg
+hardware/tools/arm-toolchain.tar.xz
+hardware/tools/freerouting.jar
+hardware/tools/venv/
+hardware/tools/qmk_firmware/
+hardware/tools/marbastlib/
+hardware/tools/rp2040-reference/
+hardware/tools/keyswitch-library/

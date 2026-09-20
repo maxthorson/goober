@@ -1,0 +1,1 @@
+This early concept predates the decision to defer the hub/charging passthrough. It is historical only and is excluded from the release ZIP. The current design uses exactly one USB-C port. Use ../goober-appearance.png and ../goober-cad.png for the current revision.

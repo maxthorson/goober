@@ -1,0 +1,23 @@
+{
+  "PCB (rounded outline)": {
+    "base": 0,
+    "lid": 0.0
+  },
+  "RP2040 board": {
+    "base": 0,
+    "lid": 0
+  },
+  "USB connector": {
+    "base": 0,
+    "lid": 0
+  },
+  "OLED PCB": {
+    "base": 0,
+    "lid": 0
+  },
+  "encoder body": {
+    "base": 0,
+    "lid": 0
+  },
+  "note": "No positive-volume intersections for nominal bounding proxies. Excludes solder, wiring, switch clips and detailed component tolerances; physical fit test still required."
+}

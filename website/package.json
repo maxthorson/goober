@@ -30,7 +30,7 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "description": "Website for the Goober macro pad hardware, firmware, and product documentation.",
   "main": "index.js",
   "author": "",
   "license": "ISC"

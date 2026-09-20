@@ -1,0 +1,12 @@
+{
+  "status": "compiled and UF2 structure verified; not hardware tested",
+  "qmk_revision": "e6a31e474a931060412bb72c4c48131f58ac4bbc",
+  "target": "goober/rev_a:default",
+  "uf2_bytes": 86016,
+  "program_payload_bytes": 43008,
+  "sha256": "37cdf6362becb5af923bd2000f21c59298a4197a62f5f0c19ec085e71cb36066",
+  "family_id": "RP2040 / 0xE48BFF56",
+  "arm_compiler": "13.3.rel1",
+  "qmk_cli": "1.2.0",
+  "build_script_verified": true
+}

@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/maxthorson/Goober/hardware/goober.kicad_sch</source>
+    <date>2026-09-05T17:16:57</date>
+    <tool>Eeschema 10.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Goober Rev A — USB-C macro pad</title>
+        <company/>
+        <rev>A.1</rev>
+        <date/>
+        <source>goober.kicad_sch</source>
+        <comment number="1" value="Module-level symbols show every connected pin; circuit.json is the shared pin contract."/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2220ffe-8ae2-4bfd-9207-27db58c4ef8c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e03d707-a2a3-4ad6-a9a8-1cc581f17dec</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C3" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce65114c-7032-4cde-a130-37dc9f8da39f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C4" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1463a17b-78ac-4b89-9890-60206f5c0e3a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C5" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8053d21d-eca0-4234-b984-b14245cadc16</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C6">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C6" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82c6c5bc-5777-4c89-a8f7-5a7f213b22d2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C7">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C7" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38fcd668-b1cc-4c44-8248-d48479fb3da8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C8">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C8" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a348ac7-5bfb-40ba-addc-ffd4b2955e56</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C9" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b99bd9a3-1e44-40c6-a41a-03b17cc6f14a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>100nF 16V X7R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C10" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>342226aa-4b47-4c12-8fe5-ccf94cdc9a26</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C11">
+      <value>4.7uF 16V X5R</value>
+      <footprint>Goober:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="C11" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31ece914-e33c-4e89-a6aa-d03a2e7218f9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80551817-c28e-42ca-93b1-97b609125b33</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fa2cdfa-84b5-42ae-abaa-7fc0498a1ae5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D3" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0b15ffc-55da-4ca4-abc9-987b7a094b5b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D4" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cefaf3f-50d7-4753-8c43-a81c6fedfa1b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D5" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1ef5e32-ab18-4d63-83a4-86ca1d143f08</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D6">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D6" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>238a91c8-230f-4760-96f3-70d76e37fbc4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D7">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D7" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47a03108-6b01-4896-9315-ce5d8432624a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D8">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D8" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72c413f9-e81d-45cf-9fd4-1d486af23439</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D9">
+      <value>SK6812MINI-E</value>
+      <footprint>Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</footprint>
+      <fields>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="D9" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b86475-3750-4076-964b-6ba51232e8de</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="ENC1">
+      <value>ALPS EC11E15244G1</value>
+      <footprint>Goober:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</footprint>
+      <fields>
+        <field name="Footprint">Goober:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="ENC1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80dad014-21a6-4bcc-82ff-186b825b3391</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="A"/>
+            <pin num="B"/>
+            <pin num="C"/>
+            <pin num="S1"/>
+            <pin num="S2"/>
+            <pin num="MP"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="F1">
+      <value>1206L050YR 0.5A PTC</value>
+      <footprint>Goober:Fuse_1206_3216Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:Fuse_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="F1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c06962f-6de5-40ee-948a-1737380658d8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>OLED: GND 3V3 SCL SDA</value>
+      <footprint>Goober:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Goober:PinHeader_1x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="J1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a49c5852-0a94-4dec-b70a-55b6f12026ba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3401A P-MOSFET</value>
+      <footprint>Goober:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Goober:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="Q1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd065c19-6567-49ee-bdc9-49d2c24cf725</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT3904 NPN</value>
+      <footprint>Goober:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Goober:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="Q2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50274a20-183e-4a78-90a6-f4675a48612e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25834ccb-cdd0-4dcb-b2ad-2d6df0be6418</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acf58cf7-f56a-48af-89ea-fe1a78ee055c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R3" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db58e110-b003-4833-bfcd-1ff193e7f5eb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>330R</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R4" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef44f314-357a-4a09-9aae-846af0ab083d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>4.7k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R5" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>923ae496-d70d-4e08-8247-c65a24bbb414</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>4.7k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R6" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8d0e43d-cca4-4d69-b326-ca071774f8c0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>3.3k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R7" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caa5b24c-cb44-4510-9d17-6d9607545f87</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>3.3k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R8" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f7337df-254e-40ee-9402-59ed0f219600</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k</value>
+      <footprint>Goober:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="R9" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a728cc78-da37-4e27-b5e0-a6377ff40af8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW1">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1d61c67-e961-4c57-9b55-54b4966406bc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW2">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0e15cbd-87ce-497b-b412-0a6fd54fddbc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW3">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW3" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1aa0980-eced-4f36-aa8c-398aa18776cc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW4">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW4" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ba64bba-4fb3-403a-a785-a552f4f60276</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW5">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW5" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9be98ad2-4e88-4c3a-80e7-7f12d9b42fdd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW6">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW6" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cfb1e9a-4ede-49d9-837f-de441e00929b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW7">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW7" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dfabeb4-7259-4d04-97b6-1458dbff4d4f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW8">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW8" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f283c429-41f3-4c97-b87c-a008e51d3315</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW9">
+      <value>Kailh CPG151101S11</value>
+      <footprint>Goober:SW_MX_HS_CPG151101S11_1u</footprint>
+      <fields>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="SW9" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5cde6e5-2965-4749-92b2-0168f946f484</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>Waveshare RP2040-Zero</value>
+      <footprint>Goober:RP2040_Zero_Headers</footprint>
+      <fields>
+        <field name="Footprint">Goober:RP2040_Zero_Headers</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="U1" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd439ff-4300-4dd0-80f9-6dfc7d8b37d6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>SN74AHCT125D</value>
+      <footprint>Goober:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <fields>
+        <field name="Footprint">Goober:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Goober" part="U2" description=""/>
+      <property name="Sheetname" value="goober"/>
+      <property name="Sheetfile" value="goober.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b5ed9e6-28ee-45d4-a87e-8c47d784dd03</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Goober" part="C1">
+      <fields>
+        <field name="Reference">C1</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C10">
+      <fields>
+        <field name="Reference">C10</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C11">
+      <fields>
+        <field name="Reference">C11</field>
+        <field name="Value">4.7uF 16V X5R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C2">
+      <fields>
+        <field name="Reference">C2</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C3">
+      <fields>
+        <field name="Reference">C3</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C4">
+      <fields>
+        <field name="Reference">C4</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C5">
+      <fields>
+        <field name="Reference">C5</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C6">
+      <fields>
+        <field name="Reference">C6</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C7">
+      <fields>
+        <field name="Reference">C7</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C8">
+      <fields>
+        <field name="Reference">C8</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="C9">
+      <fields>
+        <field name="Reference">C9</field>
+        <field name="Value">100nF 16V X7R</field>
+        <field name="Footprint">Goober:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D1">
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D2">
+      <fields>
+        <field name="Reference">D2</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D3">
+      <fields>
+        <field name="Reference">D3</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D4">
+      <fields>
+        <field name="Reference">D4</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D5">
+      <fields>
+        <field name="Reference">D5</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D6">
+      <fields>
+        <field name="Reference">D6</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D7">
+      <fields>
+        <field name="Reference">D7</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D8">
+      <fields>
+        <field name="Reference">D8</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="D9">
+      <fields>
+        <field name="Reference">D9</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">Goober:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="ENC1">
+      <fields>
+        <field name="Reference">ENC1</field>
+        <field name="Value">ALPS EC11E15244G1</field>
+        <field name="Footprint">Goober:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="MP" name="MP" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="F1">
+      <fields>
+        <field name="Reference">F1</field>
+        <field name="Value">1206L050YR 0.5A PTC</field>
+        <field name="Footprint">Goober:Fuse_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="J1">
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">OLED: GND 3V3 SCL SDA</field>
+        <field name="Footprint">Goober:PinHeader_1x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="SCL" type="passive"/>
+        <pin num="4" name="SDA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="Q1">
+      <fields>
+        <field name="Reference">Q1</field>
+        <field name="Value">AO3401A P-MOSFET</field>
+        <field name="Footprint">Goober:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="Q2">
+      <fields>
+        <field name="Reference">Q2</field>
+        <field name="Value">MMBT3904 NPN</field>
+        <field name="Footprint">Goober:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R1">
+      <fields>
+        <field name="Reference">R1</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R2">
+      <fields>
+        <field name="Reference">R2</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R3">
+      <fields>
+        <field name="Reference">R3</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R4">
+      <fields>
+        <field name="Reference">R4</field>
+        <field name="Value">330R</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R5">
+      <fields>
+        <field name="Reference">R5</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R6">
+      <fields>
+        <field name="Reference">R6</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R7">
+      <fields>
+        <field name="Reference">R7</field>
+        <field name="Value">3.3k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R8">
+      <fields>
+        <field name="Reference">R8</field>
+        <field name="Value">3.3k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="R9">
+      <fields>
+        <field name="Reference">R9</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">Goober:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW1">
+      <fields>
+        <field name="Reference">SW1</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW2">
+      <fields>
+        <field name="Reference">SW2</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW3">
+      <fields>
+        <field name="Reference">SW3</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW4">
+      <fields>
+        <field name="Reference">SW4</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW5">
+      <fields>
+        <field name="Reference">SW5</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW6">
+      <fields>
+        <field name="Reference">SW6</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW7">
+      <fields>
+        <field name="Reference">SW7</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW8">
+      <fields>
+        <field name="Reference">SW8</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="SW9">
+      <fields>
+        <field name="Reference">SW9</field>
+        <field name="Value">Kailh CPG151101S11</field>
+        <field name="Footprint">Goober:SW_MX_HS_CPG151101S11_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="U1">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">Waveshare RP2040-Zero</field>
+        <field name="Footprint">Goober:RP2040_Zero_Headers</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GP0" type="bidirectional"/>
+        <pin num="2" name="GP1" type="bidirectional"/>
+        <pin num="3" name="GP2" type="bidirectional"/>
+        <pin num="4" name="GP3" type="bidirectional"/>
+        <pin num="5" name="GP4" type="bidirectional"/>
+        <pin num="6" name="GP5" type="bidirectional"/>
+        <pin num="7" name="GP6" type="bidirectional"/>
+        <pin num="8" name="GP7" type="bidirectional"/>
+        <pin num="9" name="GP8" type="bidirectional"/>
+        <pin num="10" name="GP9" type="bidirectional"/>
+        <pin num="11" name="GP10" type="bidirectional"/>
+        <pin num="12" name="GP11" type="bidirectional"/>
+        <pin num="13" name="GP12" type="bidirectional"/>
+        <pin num="14" name="GP13" type="bidirectional"/>
+        <pin num="15" name="GP14" type="bidirectional"/>
+        <pin num="16" name="GP15" type="bidirectional"/>
+        <pin num="17" name="GP26" type="bidirectional"/>
+        <pin num="18" name="GP27" type="bidirectional"/>
+        <pin num="19" name="GP28" type="bidirectional"/>
+        <pin num="20" name="GP29" type="bidirectional"/>
+        <pin num="21" name="3V3_OUT" type="power_out"/>
+        <pin num="22" name="GND" type="power_out"/>
+        <pin num="23" name="5V_USB" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Goober" part="U2">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">SN74AHCT125D</field>
+        <field name="Footprint">Goober:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="~OE1" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="Y1" type="tri_state"/>
+        <pin num="4" name="~OE2" type="input"/>
+        <pin num="5" name="A2" type="input"/>
+        <pin num="6" name="Y2" type="tri_state"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="Y3" type="tri_state"/>
+        <pin num="9" name="A3" type="input"/>
+        <pin num="10" name="~OE3" type="input"/>
+        <pin num="11" name="Y4" type="tri_state"/>
+        <pin num="12" name="A4" type="input"/>
+        <pin num="13" name="~OE4" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Goober">
+      <uri>${KIPRJMOD}/Goober.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+3V3" class="Default">
+      <node ref="J1" pin="2" pinfunction="VCC_2" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="3V3_OUT_21" pintype="power_out"/>
+    </net>
+    <net code="2" name="/+5V_FUSED" class="Default">
+      <node ref="F1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/+5V_LED" class="Default">
+      <node ref="C1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="Q1" pin="3" pinfunction="D_3" pintype="power_out"/>
+    </net>
+    <net code="4" name="/+5V_USB" class="Default">
+      <node ref="C10" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="F1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="5V_USB_23" pintype="power_out"/>
+      <node ref="U2" pin="10" pinfunction="~OE3_10" pintype="input"/>
+      <node ref="U2" pin="13" pinfunction="~OE4_13" pintype="input"/>
+      <node ref="U2" pin="14" pinfunction="VCC_14" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="~OE2_4" pintype="input"/>
+    </net>
+    <net code="5" name="/ENC_A" class="Default">
+      <node ref="ENC1" pin="A" pinfunction="A_A" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GP10_11" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/ENC_B" class="Default">
+      <node ref="ENC1" pin="B" pinfunction="B_B" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GP11_12" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/ENC_SW" class="Default">
+      <node ref="ENC1" pin="S1" pinfunction="S1_S1" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GP12_13" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/GND" class="Default">
+      <node ref="C1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="ENC1" pin="C" pinfunction="C_C" pintype="passive"/>
+      <node ref="ENC1" pin="MP" pinfunction="MP_MP" pintype="passive"/>
+      <node ref="ENC1" pin="S2" pinfunction="S2_S2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="GND_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E_2" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GND_22" pintype="power_out"/>
+      <node ref="U2" pin="12" pinfunction="A4_12" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="A2_5" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="GND_7" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="A3_9" pintype="input"/>
+    </net>
+    <net code="9" name="/KEY1" class="Default">
+      <node ref="SW1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GP0_1" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/KEY2" class="Default">
+      <node ref="SW2" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GP1_2" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/KEY3" class="Default">
+      <node ref="SW3" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GP2_3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/KEY4" class="Default">
+      <node ref="SW4" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GP3_4" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/KEY5" class="Default">
+      <node ref="SW5" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GP4_5" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/KEY6" class="Default">
+      <node ref="SW6" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GP5_6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/KEY7" class="Default">
+      <node ref="SW7" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GP6_7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/KEY8" class="Default">
+      <node ref="SW8" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GP7_8" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/KEY9" class="Default">
+      <node ref="SW9" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GP8_9" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/LED_BASE" class="Default">
+      <node ref="Q2" pin="1" pinfunction="B_1" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="19" name="/LED_DIN1" class="Default">
+      <node ref="D1" pin="2" pinfunction="DIN_2" pintype="input"/>
+      <node ref="R4" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="20" name="/LED_DIN2" class="Default">
+      <node ref="D1" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D2" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="21" name="/LED_DIN3" class="Default">
+      <node ref="D2" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D3" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="22" name="/LED_DIN4" class="Default">
+      <node ref="D3" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D4" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="23" name="/LED_DIN5" class="Default">
+      <node ref="D4" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D5" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="24" name="/LED_DIN6" class="Default">
+      <node ref="D5" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D6" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="25" name="/LED_DIN7" class="Default">
+      <node ref="D6" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D7" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="26" name="/LED_DIN8" class="Default">
+      <node ref="D7" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D8" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="27" name="/LED_DIN9" class="Default">
+      <node ref="D8" pin="4" pinfunction="DOUT_4" pintype="output"/>
+      <node ref="D9" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="28" name="/LED_EN" class="Default">
+      <node ref="R2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GP9_10" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/LED_GATE_N" class="Default">
+      <node ref="Q1" pin="1" pinfunction="G_1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C_3" pintype="open_collector"/>
+      <node ref="R1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="~OE1_1" pintype="input"/>
+    </net>
+    <net code="30" name="/OLED_SCL" class="Default">
+      <node ref="J1" pin="3" pinfunction="SCL_3" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GP15_16" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/OLED_SDA" class="Default">
+      <node ref="J1" pin="4" pinfunction="SDA_4" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GP14_15" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/RGB_5V" class="Default">
+      <node ref="R4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Y1_3" pintype="tri_state"/>
+    </net>
+    <net code="33" name="/RGB_DATA" class="Default">
+      <node ref="U1" pin="14" pinfunction="GP13_14" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="A1_2" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(D9-DOUT-Pad4)" class="Default">
+      <node ref="D9" pin="4" pinfunction="DOUT_4" pintype="output+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-GP26-Pad17)" class="Default">
+      <node ref="U1" pin="17" pinfunction="GP26_17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U1-GP27-Pad18)" class="Default">
+      <node ref="U1" pin="18" pinfunction="GP27_18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-GP28-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="GP28_19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-GP29-Pad20)" class="Default">
+      <node ref="U1" pin="20" pinfunction="GP29_20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-Y2-Pad6)" class="Default">
+      <node ref="U2" pin="6" pinfunction="Y2_6" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U2-Y3-Pad8)" class="Default">
+      <node ref="U2" pin="8" pinfunction="Y3_8" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U2-Y4-Pad11)" class="Default">
+      <node ref="U2" pin="11" pinfunction="Y4_11" pintype="tri_state+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,29 @@
+{
+  "reader": "Gerbonara 1.6.3",
+  "layers": {
+    "('top', 'copper')": 386,
+    "('top', 'mask')": 127,
+    "('top', 'silk')": 908,
+    "('bottom', 'copper')": 554,
+    "('bottom', 'mask')": 155,
+    "('bottom', 'silk')": 1793,
+    "('mechanical', 'outline')": 188
+  },
+  "bounds_mm": [
+    [
+      -0.02500000000066658,
+      -96.025
+    ],
+    [
+      80.025,
+      0.02500000000066658
+    ]
+  ],
+  "plated_drill_objects": 90,
+  "nonplated_drill_objects": 31,
+  "closed_outline_contours": 10,
+  "reader_warnings": [
+    "/Users/maxthorson/Goober/hardware/gerbers/goober-NPTH.drl:16 \"G90\": G90 header statement found after end of header",
+    "/Users/maxthorson/Goober/hardware/gerbers/goober-PTH.drl:18 \"G90\": G90 header statement found after end of header"
+  ]
+}

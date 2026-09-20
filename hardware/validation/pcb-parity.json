@@ -1,0 +1,2887 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-05T17:16:30",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C1 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 50.75
+                    },
+                    "uuid": "ea240b1c-66d5-41d8-81ed-5a0bb7617066"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C1 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 48.85
+                    },
+                    "uuid": "5c4fd051-7c2a-4f55-ae7b-562da2f41909"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C2 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 50.75
+                    },
+                    "uuid": "01111973-a860-449d-b8d3-b927a484aceb"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C2 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 48.85
+                    },
+                    "uuid": "a84eed0c-905c-4f24-9b35-e21ba2ce32b0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C3 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 50.75
+                    },
+                    "uuid": "fe6a5ff2-4450-472d-a0be-ab497fbd9066"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C3 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 48.85
+                    },
+                    "uuid": "9c6f2c9b-5bb7-4174-9777-f9af918b3ffa"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C4 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 69.8
+                    },
+                    "uuid": "660d2553-9852-4d92-a62b-8319ae7f0715"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C4 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 67.9
+                    },
+                    "uuid": "1ea186bc-868e-4b73-98ba-b879592d9267"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C5 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 69.8
+                    },
+                    "uuid": "7f5a67d4-7619-40da-8be7-f38144bafa74"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C5 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 67.9
+                    },
+                    "uuid": "861ad38b-c195-4272-8ea1-13f2db77997a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C6 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 69.8
+                    },
+                    "uuid": "ae0ed52b-ef43-4d70-9f57-f8029d97ee75"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C6 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 67.9
+                    },
+                    "uuid": "eb778d82-2368-4c90-bc3b-64f2a940a11e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C7 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 88.85
+                    },
+                    "uuid": "6799542b-cb12-4f7e-9966-c4172a261c5f"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C7 on B.Cu",
+                    "pos": {
+                        "x": 26.95,
+                        "y": 86.95
+                    },
+                    "uuid": "abd887cf-e37d-4cb7-8a54-5144ca06d9a0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C8 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 88.85
+                    },
+                    "uuid": "ad957c8c-1598-4d0b-871e-f134e82bba5a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C8 on B.Cu",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 86.95
+                    },
+                    "uuid": "a4c65197-9ea5-4148-be0e-50cece066445"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C9 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 88.85
+                    },
+                    "uuid": "7cacea99-07dc-4632-9747-b0d7f7ef7295"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C9 on B.Cu",
+                    "pos": {
+                        "x": 65.05,
+                        "y": 86.95
+                    },
+                    "uuid": "081c4407-c6ba-4767-98e2-010586ca87bc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_USB] of C10 on F.Cu",
+                    "pos": {
+                        "x": 41.05,
+                        "y": 23.0
+                    },
+                    "uuid": "0281c5eb-6fe5-4cf3-9e8d-d2cdf40e0cb2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C10 on F.Cu",
+                    "pos": {
+                        "x": 42.95,
+                        "y": 23.0
+                    },
+                    "uuid": "ad63731f-5008-478e-b091-27daf56fc5b1"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_LED] of C11 on F.Cu",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 29.95
+                    },
+                    "uuid": "a9ae888b-3aa0-4fe2-b868-210bf0a98681"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of C11 on F.Cu",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 28.05
+                    },
+                    "uuid": "06be6752-f97a-4dcd-b662-5f17e9cb0779"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D1 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 49.83
+                    },
+                    "uuid": "4ffab693-2080-4908-a7b6-0e1b8accb0ae"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN1) doesn't match net given by schematic (/LED_DIN1)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN1] of D1 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 48.33
+                    },
+                    "uuid": "139f3182-a88f-4191-b395-b99ddeb3ca16"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D1 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 48.33
+                    },
+                    "uuid": "38340a44-8e2e-4694-8e43-c660d70f5cbc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN2) doesn't match net given by schematic (/LED_DIN2)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN2] of D1 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 49.83
+                    },
+                    "uuid": "bb781e23-3335-43d5-9b03-20a9bfedf43a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D2 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 49.83
+                    },
+                    "uuid": "9dcb291f-22b5-45d9-9610-07ee004f4bd6"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN2) doesn't match net given by schematic (/LED_DIN2)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN2] of D2 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 48.33
+                    },
+                    "uuid": "9714ad7f-ff5a-44c9-91ed-6127f085cbfc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D2 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 48.33
+                    },
+                    "uuid": "a23a4215-5aa7-4f84-b7ab-f32d7250be69"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN3) doesn't match net given by schematic (/LED_DIN3)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN3] of D2 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 49.83
+                    },
+                    "uuid": "65da2f3b-5c3d-4bb8-9012-ffd8127861b2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D3 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 49.83
+                    },
+                    "uuid": "99fb4d18-34fc-49de-8170-2897ac29501e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN3) doesn't match net given by schematic (/LED_DIN3)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN3] of D3 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 48.33
+                    },
+                    "uuid": "c65097c1-f7e2-4e7a-bf28-abb2c5c05a6f"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D3 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 48.33
+                    },
+                    "uuid": "90e9acd1-a696-420d-8d52-bd72073da011"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN4) doesn't match net given by schematic (/LED_DIN4)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN4] of D3 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 49.83
+                    },
+                    "uuid": "4191aee4-022c-4e10-b0c1-21945c60964a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D4 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 68.88
+                    },
+                    "uuid": "16054047-0575-448d-ae58-69f47fff88d5"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN4) doesn't match net given by schematic (/LED_DIN4)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN4] of D4 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 67.38
+                    },
+                    "uuid": "bc617ed8-7e10-4086-b62d-f20a56bed9e1"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D4 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 67.38
+                    },
+                    "uuid": "25a034f1-1a90-4e44-950b-eea944765869"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN5) doesn't match net given by schematic (/LED_DIN5)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN5] of D4 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 68.88
+                    },
+                    "uuid": "d92e0461-b194-4560-b5e8-87da067b8bfc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D5 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 68.88
+                    },
+                    "uuid": "4b8b7195-e450-4863-8461-9757f2b1ec6d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN5) doesn't match net given by schematic (/LED_DIN5)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN5] of D5 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 67.38
+                    },
+                    "uuid": "9bf8713d-ee1a-4d2d-a6df-a1de169f904e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D5 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 67.38
+                    },
+                    "uuid": "4d061732-2965-40c7-ab70-6c5ab39a8089"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN6) doesn't match net given by schematic (/LED_DIN6)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN6] of D5 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 68.88
+                    },
+                    "uuid": "ab8ed364-088b-438c-b3e9-bc341f1c8b31"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D6 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 68.88
+                    },
+                    "uuid": "d240986a-27c4-4038-ba68-eec98d0445bd"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN6) doesn't match net given by schematic (/LED_DIN6)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN6] of D6 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 67.38
+                    },
+                    "uuid": "bd71f77c-e721-4462-9fc4-d4e38ed655ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D6 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 67.38
+                    },
+                    "uuid": "c6b0b924-6af1-4c4c-a94e-69b3668dd4ed"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN7) doesn't match net given by schematic (/LED_DIN7)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN7] of D6 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 68.88
+                    },
+                    "uuid": "308e5c5f-f2ee-4bfc-a673-1d5cbf5fe752"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D7 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 87.93
+                    },
+                    "uuid": "2a971a36-61b3-4199-8dfe-d03f4dc8770b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN7) doesn't match net given by schematic (/LED_DIN7)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN7] of D7 on B.Cu",
+                    "pos": {
+                        "x": 23.675,
+                        "y": 86.43
+                    },
+                    "uuid": "85928abc-0f92-4682-a23c-74f2ecd7f517"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D7 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 86.43
+                    },
+                    "uuid": "563c95d0-570f-4eb1-a38a-4a9ab60b28e8"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN8) doesn't match net given by schematic (/LED_DIN8)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN8] of D7 on B.Cu",
+                    "pos": {
+                        "x": 18.225,
+                        "y": 87.93
+                    },
+                    "uuid": "84c8d071-b9f9-4573-b141-477484c583a2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D8 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 87.93
+                    },
+                    "uuid": "4e12014a-0ca9-4648-9338-d08bb8175327"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN8) doesn't match net given by schematic (/LED_DIN8)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN8] of D8 on B.Cu",
+                    "pos": {
+                        "x": 42.725,
+                        "y": 86.43
+                    },
+                    "uuid": "52802479-ae50-4cbb-a33d-0a225f4cf867"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D8 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 86.43
+                    },
+                    "uuid": "4b4c3681-35c3-4d40-91e5-a4edc96d1faa"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN9) doesn't match net given by schematic (/LED_DIN9)",
+            "items": [
+                {
+                    "description": "Pad 4 [LED_DIN9] of D8 on B.Cu",
+                    "pos": {
+                        "x": 37.275,
+                        "y": 87.93
+                    },
+                    "uuid": "65e24a4b-8317-4829-9828-46430cd5c09e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of D9 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 87.93
+                    },
+                    "uuid": "b85885e6-5750-4d45-a35e-ee491acac0cf"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN9) doesn't match net given by schematic (/LED_DIN9)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN9] of D9 on B.Cu",
+                    "pos": {
+                        "x": 61.775,
+                        "y": 86.43
+                    },
+                    "uuid": "c09b1f83-5e60-44d4-91e1-2bd514eb25d4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of D9 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 86.43
+                    },
+                    "uuid": "7b2ab8ec-6bf2-4c1d-b322-3bddf497b5ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(D9-DOUT-Pad4))",
+            "items": [
+                {
+                    "description": "Pad 4 [<no net>] of D9 on B.Cu",
+                    "pos": {
+                        "x": 56.325,
+                        "y": 87.93
+                    },
+                    "uuid": "9ff414b3-9047-4ef2-b708-17dbd6c4d499"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_A) doesn't match net given by schematic (/ENC_A)",
+            "items": [
+                {
+                    "description": "PTH pad A [ENC_A] of ENC1",
+                    "pos": {
+                        "x": 54.5,
+                        "y": 17.5
+                    },
+                    "uuid": "d1bb517e-c570-49ca-928a-cfcdbefc5744"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_B) doesn't match net given by schematic (/ENC_B)",
+            "items": [
+                {
+                    "description": "PTH pad B [ENC_B] of ENC1",
+                    "pos": {
+                        "x": 54.5,
+                        "y": 22.5
+                    },
+                    "uuid": "06654f34-cfdc-4562-a845-d8d694073c73"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad C [GND] of ENC1",
+                    "pos": {
+                        "x": 54.5,
+                        "y": 20.0
+                    },
+                    "uuid": "7bff1362-ac4a-420e-b5bb-a347db54b46c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad MP [GND] of ENC1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 14.4
+                    },
+                    "uuid": "665f7e38-c462-4ea4-a62b-7e09938bf3ed"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad MP [GND] of ENC1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 25.6
+                    },
+                    "uuid": "1ce6ac48-e4d3-406a-a4a7-deb4e3b35643"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_SW) doesn't match net given by schematic (/ENC_SW)",
+            "items": [
+                {
+                    "description": "PTH pad S1 [ENC_SW] of ENC1",
+                    "pos": {
+                        "x": 69.0,
+                        "y": 22.5
+                    },
+                    "uuid": "501e9579-1499-4eca-9e39-fcff1ccb661d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad S2 [GND] of ENC1",
+                    "pos": {
+                        "x": 69.0,
+                        "y": 17.5
+                    },
+                    "uuid": "78ff757b-f8a2-44b0-90a8-aebe52a8e69a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_USB] of F1 on F.Cu",
+                    "pos": {
+                        "x": 40.6,
+                        "y": 7.0
+                    },
+                    "uuid": "904ae214-22a2-4c58-909d-895997c9aabb"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_FUSED) doesn't match net given by schematic (/+5V_FUSED)",
+            "items": [
+                {
+                    "description": "Pad 2 [+5V_FUSED] of F1 on F.Cu",
+                    "pos": {
+                        "x": 43.4,
+                        "y": 7.0
+                    },
+                    "uuid": "dd33c469-ef5c-4af7-bfb9-9c4a7543690f"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of J1",
+                    "pos": {
+                        "x": 10.0,
+                        "y": 27.0
+                    },
+                    "uuid": "35ad9a14-c95d-4d50-aeb5-699edaac1cf4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [+3V3] of J1",
+                    "pos": {
+                        "x": 12.54,
+                        "y": 27.0
+                    },
+                    "uuid": "27c4a7a7-64b0-4483-acf5-c45983cbd8ba"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SCL) doesn't match net given by schematic (/OLED_SCL)",
+            "items": [
+                {
+                    "description": "PTH pad 3 [OLED_SCL] of J1",
+                    "pos": {
+                        "x": 15.08,
+                        "y": 27.0
+                    },
+                    "uuid": "3861b149-4cc1-4a2b-9dbe-f781ddce69bb"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SDA) doesn't match net given by schematic (/OLED_SDA)",
+            "items": [
+                {
+                    "description": "PTH pad 4 [OLED_SDA] of J1",
+                    "pos": {
+                        "x": 17.62,
+                        "y": 27.0
+                    },
+                    "uuid": "093a9955-6670-4bb1-b123-02419eedb436"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_GATE_N) doesn't match net given by schematic (/LED_GATE_N)",
+            "items": [
+                {
+                    "description": "Pad 1 [LED_GATE_N] of Q1 on F.Cu",
+                    "pos": {
+                        "x": 34.0625,
+                        "y": 28.05
+                    },
+                    "uuid": "9b1cd5d4-3785-49ca-af37-684b980af9a3"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_FUSED) doesn't match net given by schematic (/+5V_FUSED)",
+            "items": [
+                {
+                    "description": "Pad 2 [+5V_FUSED] of Q1 on F.Cu",
+                    "pos": {
+                        "x": 34.0625,
+                        "y": 29.95
+                    },
+                    "uuid": "f906c1c2-f527-4f52-9e5e-f516c3895eb5"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_LED) doesn't match net given by schematic (/+5V_LED)",
+            "items": [
+                {
+                    "description": "Pad 3 [+5V_LED] of Q1 on F.Cu",
+                    "pos": {
+                        "x": 35.9375,
+                        "y": 29.0
+                    },
+                    "uuid": "739a9abe-6cad-4b30-b836-7429c8dc048d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_BASE) doesn't match net given by schematic (/LED_BASE)",
+            "items": [
+                {
+                    "description": "Pad 1 [LED_BASE] of Q2 on F.Cu",
+                    "pos": {
+                        "x": 25.0625,
+                        "y": 29.05
+                    },
+                    "uuid": "f1869276-8839-4a53-b110-aa43bd88449a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of Q2 on F.Cu",
+                    "pos": {
+                        "x": 25.0625,
+                        "y": 30.95
+                    },
+                    "uuid": "9bb1d8cc-742d-4e00-b030-5340b6c4555b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_GATE_N) doesn't match net given by schematic (/LED_GATE_N)",
+            "items": [
+                {
+                    "description": "Pad 3 [LED_GATE_N] of Q2 on F.Cu",
+                    "pos": {
+                        "x": 26.9375,
+                        "y": 30.0
+                    },
+                    "uuid": "178b23c2-3e7e-4564-97ee-1bc174bbf325"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_FUSED) doesn't match net given by schematic (/+5V_FUSED)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V_FUSED] of R1 on F.Cu",
+                    "pos": {
+                        "x": 34.0875,
+                        "y": 33.0
+                    },
+                    "uuid": "5ddfe42a-60be-4ff0-a9ec-269651370714"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_GATE_N) doesn't match net given by schematic (/LED_GATE_N)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_GATE_N] of R1 on F.Cu",
+                    "pos": {
+                        "x": 35.9125,
+                        "y": 33.0
+                    },
+                    "uuid": "f3f49968-9835-45bc-a2df-bb32c072e4ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_EN) doesn't match net given by schematic (/LED_EN)",
+            "items": [
+                {
+                    "description": "Pad 1 [LED_EN] of R2 on F.Cu",
+                    "pos": {
+                        "x": 22.0,
+                        "y": 30.9125
+                    },
+                    "uuid": "e08a77e0-aed2-4a19-bf4e-7cea4ea69e11"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_BASE) doesn't match net given by schematic (/LED_BASE)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_BASE] of R2 on F.Cu",
+                    "pos": {
+                        "x": 22.0,
+                        "y": 29.0875
+                    },
+                    "uuid": "9d33f6e4-3686-4ffe-b51e-2546d6da1932"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_BASE) doesn't match net given by schematic (/LED_BASE)",
+            "items": [
+                {
+                    "description": "Pad 1 [LED_BASE] of R3 on F.Cu",
+                    "pos": {
+                        "x": 26.0875,
+                        "y": 34.0
+                    },
+                    "uuid": "24a72d7e-df07-45ea-b12b-44caf4033238"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 2 [GND] of R3 on F.Cu",
+                    "pos": {
+                        "x": 27.9125,
+                        "y": 34.0
+                    },
+                    "uuid": "e6789077-611c-462a-816f-c846b840adf8"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (RGB_5V) doesn't match net given by schematic (/RGB_5V)",
+            "items": [
+                {
+                    "description": "Pad 1 [RGB_5V] of R4 on F.Cu",
+                    "pos": {
+                        "x": 46.0875,
+                        "y": 36.0
+                    },
+                    "uuid": "847a8977-562e-4cec-b5b3-502f327bb5fc"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_DIN1) doesn't match net given by schematic (/LED_DIN1)",
+            "items": [
+                {
+                    "description": "Pad 2 [LED_DIN1] of R4 on F.Cu",
+                    "pos": {
+                        "x": 47.9125,
+                        "y": 36.0
+                    },
+                    "uuid": "6294902a-e298-4602-8f2e-46696e205044"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "Pad 1 [+3V3] of R5 on F.Cu",
+                    "pos": {
+                        "x": 9.0875,
+                        "y": 31.0
+                    },
+                    "uuid": "95b02f36-3bd2-4e42-907c-9f4ac3df657d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SDA) doesn't match net given by schematic (/OLED_SDA)",
+            "items": [
+                {
+                    "description": "Pad 2 [OLED_SDA] of R5 on F.Cu",
+                    "pos": {
+                        "x": 10.9125,
+                        "y": 31.0
+                    },
+                    "uuid": "1f3df6e6-7c33-4951-9933-cd44c05ca3c9"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "Pad 1 [+3V3] of R6 on F.Cu",
+                    "pos": {
+                        "x": 14.0875,
+                        "y": 31.0
+                    },
+                    "uuid": "a8848159-f7b8-4139-8303-ca3583726d1c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SCL) doesn't match net given by schematic (/OLED_SCL)",
+            "items": [
+                {
+                    "description": "Pad 2 [OLED_SCL] of R6 on F.Cu",
+                    "pos": {
+                        "x": 15.9125,
+                        "y": 31.0
+                    },
+                    "uuid": "fce690f0-218d-4270-ade9-c693ed842163"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "Pad 1 [+3V3] of R7 on F.Cu",
+                    "pos": {
+                        "x": 54.0875,
+                        "y": 10.0
+                    },
+                    "uuid": "8308a37a-d849-499d-aa4b-2a65de45f24b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_A) doesn't match net given by schematic (/ENC_A)",
+            "items": [
+                {
+                    "description": "Pad 2 [ENC_A] of R7 on F.Cu",
+                    "pos": {
+                        "x": 55.9125,
+                        "y": 10.0
+                    },
+                    "uuid": "ad801154-5fb3-4080-bca2-cc22c2faad5b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "Pad 1 [+3V3] of R8 on F.Cu",
+                    "pos": {
+                        "x": 60.0875,
+                        "y": 10.0
+                    },
+                    "uuid": "16b67572-4245-493e-9529-2b4f9c3c6dc4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_B) doesn't match net given by schematic (/ENC_B)",
+            "items": [
+                {
+                    "description": "Pad 2 [ENC_B] of R8 on F.Cu",
+                    "pos": {
+                        "x": 61.9125,
+                        "y": 10.0
+                    },
+                    "uuid": "3a31714a-0db7-4dc2-97a6-9b58f5723e64"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "Pad 1 [+3V3] of R9 on F.Cu",
+                    "pos": {
+                        "x": 67.0875,
+                        "y": 10.0
+                    },
+                    "uuid": "1727086e-235f-44fd-9c0b-fdbb75157cc7"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_SW) doesn't match net given by schematic (/ENC_SW)",
+            "items": [
+                {
+                    "description": "Pad 2 [ENC_SW] of R9 on F.Cu",
+                    "pos": {
+                        "x": 68.9125,
+                        "y": 10.0
+                    },
+                    "uuid": "aea848b4-dc2c-49d9-8f69-226f7bef7b74"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW1",
+                    "pos": {
+                        "x": 17.14,
+                        "y": 41.46
+                    },
+                    "uuid": "5a362991-4c35-487a-905b-b665a0bda58e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW1 on B.Cu",
+                    "pos": {
+                        "x": 15.315,
+                        "y": 41.46
+                    },
+                    "uuid": "b7375768-2370-4a27-8fb9-1c72ea25db87"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW1 on B.Cu",
+                    "pos": {
+                        "x": 13.59,
+                        "y": 41.46
+                    },
+                    "uuid": "47b3fe67-820a-4f08-b325-81d584df7e30"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY1) doesn't match net given by schematic (/KEY1)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY1] of SW1 on B.Cu",
+                    "pos": {
+                        "x": 27.04,
+                        "y": 38.92
+                    },
+                    "uuid": "a8388b63-1237-4253-bc15-7d923c011216"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY1) doesn't match net given by schematic (/KEY1)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY1] of SW1 on B.Cu",
+                    "pos": {
+                        "x": 25.29,
+                        "y": 38.92
+                    },
+                    "uuid": "916b250c-62f8-4753-ad2b-181289ee9445"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY1) doesn't match net given by schematic (/KEY1)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY1] of SW1",
+                    "pos": {
+                        "x": 23.49,
+                        "y": 38.92
+                    },
+                    "uuid": "1b0aa81e-8032-4b0c-9b41-540a80c508b9"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW2",
+                    "pos": {
+                        "x": 36.19,
+                        "y": 41.46
+                    },
+                    "uuid": "0d1e49ae-81f1-4650-a742-7f5990ba30a2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW2 on B.Cu",
+                    "pos": {
+                        "x": 34.365,
+                        "y": 41.46
+                    },
+                    "uuid": "f0bc81f5-c782-4a0e-8e4e-437dc1bbcf3d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW2 on B.Cu",
+                    "pos": {
+                        "x": 32.64,
+                        "y": 41.46
+                    },
+                    "uuid": "c83dd43e-e700-47be-bda5-f3bdb5145eef"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY2) doesn't match net given by schematic (/KEY2)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY2] of SW2 on B.Cu",
+                    "pos": {
+                        "x": 46.09,
+                        "y": 38.92
+                    },
+                    "uuid": "998038f2-558c-46c4-a158-3fe139396bdf"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY2) doesn't match net given by schematic (/KEY2)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY2] of SW2 on B.Cu",
+                    "pos": {
+                        "x": 44.34,
+                        "y": 38.92
+                    },
+                    "uuid": "e91ff033-b4ee-4bf9-b17c-982ef4b03e99"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY2) doesn't match net given by schematic (/KEY2)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY2] of SW2",
+                    "pos": {
+                        "x": 42.54,
+                        "y": 38.92
+                    },
+                    "uuid": "8bf9ce1d-daac-489b-b248-3cb911b25500"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW3",
+                    "pos": {
+                        "x": 55.24,
+                        "y": 41.46
+                    },
+                    "uuid": "52736335-c619-4220-9f05-8ebb9ec6153e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW3 on B.Cu",
+                    "pos": {
+                        "x": 53.415,
+                        "y": 41.46
+                    },
+                    "uuid": "bcbf7b86-1974-400a-a8da-42067f5d7227"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW3 on B.Cu",
+                    "pos": {
+                        "x": 51.69,
+                        "y": 41.46
+                    },
+                    "uuid": "0416dfb6-bc99-41aa-b3d8-caaca22d8998"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY3) doesn't match net given by schematic (/KEY3)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY3] of SW3 on B.Cu",
+                    "pos": {
+                        "x": 65.14,
+                        "y": 38.92
+                    },
+                    "uuid": "42eaaf1c-bfa1-455a-9339-d5d8317dfef4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY3) doesn't match net given by schematic (/KEY3)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY3] of SW3 on B.Cu",
+                    "pos": {
+                        "x": 63.39,
+                        "y": 38.92
+                    },
+                    "uuid": "fa147766-f59d-482e-85d7-cd585ce1cb84"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY3) doesn't match net given by schematic (/KEY3)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY3] of SW3",
+                    "pos": {
+                        "x": 61.59,
+                        "y": 38.92
+                    },
+                    "uuid": "32680261-7bc2-4539-a1d0-943f181f6664"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW4",
+                    "pos": {
+                        "x": 17.14,
+                        "y": 60.51
+                    },
+                    "uuid": "665accac-d1a7-4c2d-8bc8-4ef97350dd6c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW4 on B.Cu",
+                    "pos": {
+                        "x": 15.315,
+                        "y": 60.51
+                    },
+                    "uuid": "8f8bcfac-3d8a-46eb-af67-c435df13a96d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW4 on B.Cu",
+                    "pos": {
+                        "x": 13.59,
+                        "y": 60.51
+                    },
+                    "uuid": "6f05a8d0-bab8-4f76-9933-d9ca1feac95d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY4) doesn't match net given by schematic (/KEY4)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY4] of SW4 on B.Cu",
+                    "pos": {
+                        "x": 27.04,
+                        "y": 57.97
+                    },
+                    "uuid": "b196f486-1930-45b2-adc8-3106ac27d4c9"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY4) doesn't match net given by schematic (/KEY4)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY4] of SW4 on B.Cu",
+                    "pos": {
+                        "x": 25.29,
+                        "y": 57.97
+                    },
+                    "uuid": "01c591fb-c0e5-4e54-b055-f247b6f74436"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY4) doesn't match net given by schematic (/KEY4)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY4] of SW4",
+                    "pos": {
+                        "x": 23.49,
+                        "y": 57.97
+                    },
+                    "uuid": "82a8886f-7ad5-435a-8c9d-d0d5c901f69d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW5",
+                    "pos": {
+                        "x": 36.19,
+                        "y": 60.51
+                    },
+                    "uuid": "416c55a3-ef55-43f0-a99d-f3533e024f31"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW5 on B.Cu",
+                    "pos": {
+                        "x": 34.365,
+                        "y": 60.51
+                    },
+                    "uuid": "aaab0bd7-9254-4597-846a-62da26117fa6"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW5 on B.Cu",
+                    "pos": {
+                        "x": 32.64,
+                        "y": 60.51
+                    },
+                    "uuid": "6b7816f8-bcb6-4c3d-97b6-26c9afdabd15"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY5) doesn't match net given by schematic (/KEY5)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY5] of SW5 on B.Cu",
+                    "pos": {
+                        "x": 46.09,
+                        "y": 57.97
+                    },
+                    "uuid": "208b2b38-2559-440c-93bc-bdb5f8b160be"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY5) doesn't match net given by schematic (/KEY5)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY5] of SW5 on B.Cu",
+                    "pos": {
+                        "x": 44.34,
+                        "y": 57.97
+                    },
+                    "uuid": "86fce4a1-0e0c-4069-8128-02f5ef8a5ddb"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY5) doesn't match net given by schematic (/KEY5)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY5] of SW5",
+                    "pos": {
+                        "x": 42.54,
+                        "y": 57.97
+                    },
+                    "uuid": "ccd7188b-37b7-4ce1-9e05-5b7d5ee73d5d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW6",
+                    "pos": {
+                        "x": 55.24,
+                        "y": 60.51
+                    },
+                    "uuid": "b925d0dc-2d69-49c8-b5d8-25fa0e922e2b"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW6 on B.Cu",
+                    "pos": {
+                        "x": 53.415,
+                        "y": 60.51
+                    },
+                    "uuid": "2f646fa5-0fdb-4551-a609-9e3c69771082"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW6 on B.Cu",
+                    "pos": {
+                        "x": 51.69,
+                        "y": 60.51
+                    },
+                    "uuid": "c1615827-1b98-4e49-a621-ec87ab860d4c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY6) doesn't match net given by schematic (/KEY6)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY6] of SW6 on B.Cu",
+                    "pos": {
+                        "x": 65.14,
+                        "y": 57.97
+                    },
+                    "uuid": "13309dbf-5898-437d-a418-06372ddb8794"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY6) doesn't match net given by schematic (/KEY6)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY6] of SW6 on B.Cu",
+                    "pos": {
+                        "x": 63.39,
+                        "y": 57.97
+                    },
+                    "uuid": "0b22d578-f472-450a-98c7-f1acdb324f69"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY6) doesn't match net given by schematic (/KEY6)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY6] of SW6",
+                    "pos": {
+                        "x": 61.59,
+                        "y": 57.97
+                    },
+                    "uuid": "050804eb-cbba-40ab-82b7-349242b45275"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW7",
+                    "pos": {
+                        "x": 17.14,
+                        "y": 79.56
+                    },
+                    "uuid": "63c18f3e-1c73-4f46-b2c2-35f3b5b3f3d0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW7 on B.Cu",
+                    "pos": {
+                        "x": 15.315,
+                        "y": 79.56
+                    },
+                    "uuid": "90a212e5-9198-4608-894b-4bc1eff98dc4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW7 on B.Cu",
+                    "pos": {
+                        "x": 13.59,
+                        "y": 79.56
+                    },
+                    "uuid": "24421177-9880-4d01-8e14-a1582ff3b3d6"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY7) doesn't match net given by schematic (/KEY7)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY7] of SW7 on B.Cu",
+                    "pos": {
+                        "x": 27.04,
+                        "y": 77.02
+                    },
+                    "uuid": "67114829-fbac-42d0-a474-dc22946d364a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY7) doesn't match net given by schematic (/KEY7)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY7] of SW7 on B.Cu",
+                    "pos": {
+                        "x": 25.29,
+                        "y": 77.02
+                    },
+                    "uuid": "05195222-402f-4065-8280-c989b39b09d1"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY7) doesn't match net given by schematic (/KEY7)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY7] of SW7",
+                    "pos": {
+                        "x": 23.49,
+                        "y": 77.02
+                    },
+                    "uuid": "48601549-fd18-4769-a3b7-0123bc9602a9"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW8",
+                    "pos": {
+                        "x": 36.19,
+                        "y": 79.56
+                    },
+                    "uuid": "390863e5-d353-489f-9d14-c5cb5ca0b751"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW8 on B.Cu",
+                    "pos": {
+                        "x": 34.365,
+                        "y": 79.56
+                    },
+                    "uuid": "d97fb8d2-6905-4946-9d45-a73b5cf7de48"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW8 on B.Cu",
+                    "pos": {
+                        "x": 32.64,
+                        "y": 79.56
+                    },
+                    "uuid": "716bf03c-a81f-49cc-a574-d55b75273baa"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY8) doesn't match net given by schematic (/KEY8)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY8] of SW8 on B.Cu",
+                    "pos": {
+                        "x": 46.09,
+                        "y": 77.02
+                    },
+                    "uuid": "b7f58a4c-aedf-432a-8d0e-1998400f52ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY8) doesn't match net given by schematic (/KEY8)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY8] of SW8 on B.Cu",
+                    "pos": {
+                        "x": 44.34,
+                        "y": 77.02
+                    },
+                    "uuid": "738ffdf0-9de6-469b-b2f0-1f9dad95bb47"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY8) doesn't match net given by schematic (/KEY8)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY8] of SW8",
+                    "pos": {
+                        "x": 42.54,
+                        "y": 77.02
+                    },
+                    "uuid": "b79951f2-8265-476f-a860-6c844e79264e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [GND] of SW9",
+                    "pos": {
+                        "x": 55.24,
+                        "y": 79.56
+                    },
+                    "uuid": "11859fef-273d-4396-b800-e790385675f6"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW9 on B.Cu",
+                    "pos": {
+                        "x": 53.415,
+                        "y": 79.56
+                    },
+                    "uuid": "307e2327-0743-4dec-9b9a-650671fe1097"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 1 [GND] of SW9 on B.Cu",
+                    "pos": {
+                        "x": 51.69,
+                        "y": 79.56
+                    },
+                    "uuid": "0e681056-296d-4c20-ae30-ea58b7714591"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY9) doesn't match net given by schematic (/KEY9)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY9] of SW9 on B.Cu",
+                    "pos": {
+                        "x": 65.14,
+                        "y": 77.02
+                    },
+                    "uuid": "a6dc59e4-adf8-44a8-89f2-c1bb22679f68"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY9) doesn't match net given by schematic (/KEY9)",
+            "items": [
+                {
+                    "description": "Pad 2 [KEY9] of SW9 on B.Cu",
+                    "pos": {
+                        "x": 63.39,
+                        "y": 77.02
+                    },
+                    "uuid": "eba51eec-8085-4913-b6b8-0f3bdde04718"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY9) doesn't match net given by schematic (/KEY9)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY9] of SW9",
+                    "pos": {
+                        "x": 61.59,
+                        "y": 77.02
+                    },
+                    "uuid": "5569967d-3149-4fcd-9eb6-c2228ecfb771"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY1) doesn't match net given by schematic (/KEY1)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [KEY1] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 1.59
+                    },
+                    "uuid": "27d38593-8e57-4806-bd2f-495bc2f3bea7"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY2) doesn't match net given by schematic (/KEY2)",
+            "items": [
+                {
+                    "description": "PTH pad 2 [KEY2] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 4.13
+                    },
+                    "uuid": "b02dea80-1546-4c69-ab6d-bcb30aa33392"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY3) doesn't match net given by schematic (/KEY3)",
+            "items": [
+                {
+                    "description": "PTH pad 3 [KEY3] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 6.67
+                    },
+                    "uuid": "3f89c18d-7531-41b9-b3fd-547e9fe68056"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY4) doesn't match net given by schematic (/KEY4)",
+            "items": [
+                {
+                    "description": "PTH pad 4 [KEY4] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 9.21
+                    },
+                    "uuid": "d97d25c3-0cf6-4ee6-8c79-da7e2995e9ec"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY5) doesn't match net given by schematic (/KEY5)",
+            "items": [
+                {
+                    "description": "PTH pad 5 [KEY5] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 11.75
+                    },
+                    "uuid": "efb76c84-cded-4a27-99b1-3e0f6b69c105"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY6) doesn't match net given by schematic (/KEY6)",
+            "items": [
+                {
+                    "description": "PTH pad 6 [KEY6] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 14.289999
+                    },
+                    "uuid": "1b5902fd-0e45-4ae6-9b43-46ee7458c007"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY7) doesn't match net given by schematic (/KEY7)",
+            "items": [
+                {
+                    "description": "PTH pad 7 [KEY7] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 16.83
+                    },
+                    "uuid": "126e6c71-6da9-40a4-a164-56427e54f826"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY8) doesn't match net given by schematic (/KEY8)",
+            "items": [
+                {
+                    "description": "PTH pad 8 [KEY8] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 19.37
+                    },
+                    "uuid": "55906b83-a6b1-415c-8f80-bc0261dcabb5"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (KEY9) doesn't match net given by schematic (/KEY9)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [KEY9] of U1",
+                    "pos": {
+                        "x": 20.38,
+                        "y": 21.91
+                    },
+                    "uuid": "22e12a31-86de-4b73-8b39-411590ea85c6"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_EN) doesn't match net given by schematic (/LED_EN)",
+            "items": [
+                {
+                    "description": "PTH pad 10 [LED_EN] of U1",
+                    "pos": {
+                        "x": 22.92,
+                        "y": 21.91
+                    },
+                    "uuid": "3958ed85-214d-42a2-9dd8-ff1244c33bf0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_A) doesn't match net given by schematic (/ENC_A)",
+            "items": [
+                {
+                    "description": "PTH pad 11 [ENC_A] of U1",
+                    "pos": {
+                        "x": 25.46,
+                        "y": 21.91
+                    },
+                    "uuid": "9875b578-bdd6-4716-88c0-2c15d66e378c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_B) doesn't match net given by schematic (/ENC_B)",
+            "items": [
+                {
+                    "description": "PTH pad 12 [ENC_B] of U1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 21.91
+                    },
+                    "uuid": "3037a1fc-4697-4c72-8004-304028e5f081"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (ENC_SW) doesn't match net given by schematic (/ENC_SW)",
+            "items": [
+                {
+                    "description": "PTH pad 13 [ENC_SW] of U1",
+                    "pos": {
+                        "x": 30.54,
+                        "y": 21.91
+                    },
+                    "uuid": "a7d14592-0c1d-48bf-9c7e-4fd65b028e82"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (RGB_DATA) doesn't match net given by schematic (/RGB_DATA)",
+            "items": [
+                {
+                    "description": "PTH pad 14 [RGB_DATA] of U1",
+                    "pos": {
+                        "x": 33.08,
+                        "y": 21.91
+                    },
+                    "uuid": "ece8d3af-71c7-4839-8265-e9f12fa911aa"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SDA) doesn't match net given by schematic (/OLED_SDA)",
+            "items": [
+                {
+                    "description": "PTH pad 15 [OLED_SDA] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 21.91
+                    },
+                    "uuid": "a3fe511d-3a23-4003-bb2f-9353d4289d18"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (OLED_SCL) doesn't match net given by schematic (/OLED_SCL)",
+            "items": [
+                {
+                    "description": "PTH pad 16 [OLED_SCL] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 19.37
+                    },
+                    "uuid": "be78d00d-ff28-4d38-a060-e6a756582d97"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U1-GP26-Pad17))",
+            "items": [
+                {
+                    "description": "PTH pad 17 [<no net>] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 16.83
+                    },
+                    "uuid": "545787b4-0164-4a71-86ce-69ac15505255"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U1-GP27-Pad18))",
+            "items": [
+                {
+                    "description": "PTH pad 18 [<no net>] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 14.29
+                    },
+                    "uuid": "25d189c6-fdfa-491b-abfa-8d3d8fb73e84"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U1-GP28-Pad19))",
+            "items": [
+                {
+                    "description": "PTH pad 19 [<no net>] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 11.75
+                    },
+                    "uuid": "1009d9de-0114-43ee-a563-3c87554b4bdd"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U1-GP29-Pad20))",
+            "items": [
+                {
+                    "description": "PTH pad 20 [<no net>] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 9.210001
+                    },
+                    "uuid": "9579b5c9-454e-4a57-ac0c-6414d48563f0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+3V3) doesn't match net given by schematic (/+3V3)",
+            "items": [
+                {
+                    "description": "PTH pad 21 [+3V3] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 6.67
+                    },
+                    "uuid": "b36db94b-c579-4f22-922d-fe82ea57ec8e"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "PTH pad 22 [GND] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 4.13
+                    },
+                    "uuid": "0731f605-d599-4a2c-b88e-5c21ee44555c"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "PTH pad 23 [+5V_USB] of U1",
+                    "pos": {
+                        "x": 35.62,
+                        "y": 1.59
+                    },
+                    "uuid": "35427377-1ff8-4b20-b45f-94022bf2eec3"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (LED_GATE_N) doesn't match net given by schematic (/LED_GATE_N)",
+            "items": [
+                {
+                    "description": "Pad 1 [LED_GATE_N] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 25.19
+                    },
+                    "uuid": "e5463c42-f788-471a-9734-d25d8ed4bd4a"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (RGB_DATA) doesn't match net given by schematic (/RGB_DATA)",
+            "items": [
+                {
+                    "description": "Pad 2 [RGB_DATA] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 26.46
+                    },
+                    "uuid": "857d85cf-e6a7-4006-b0cf-f0b4e6dbd0c0"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (RGB_5V) doesn't match net given by schematic (/RGB_5V)",
+            "items": [
+                {
+                    "description": "Pad 3 [RGB_5V] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 27.73
+                    },
+                    "uuid": "551257c4-1c55-4c7d-9940-1c30ff77def2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 4 [+5V_USB] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 29.0
+                    },
+                    "uuid": "ccc359a8-d052-419d-9200-93e53de94661"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 5 [GND] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 30.27
+                    },
+                    "uuid": "acd4e6b2-7c3b-45af-bbf7-6e473cb8d462"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U2-Y2-Pad6))",
+            "items": [
+                {
+                    "description": "Pad 6 [<no net>] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 31.54
+                    },
+                    "uuid": "9b8558cb-4458-49df-a6db-e2cb431b35b2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 7 [GND] of U2 on F.Cu",
+                    "pos": {
+                        "x": 44.525,
+                        "y": 32.81
+                    },
+                    "uuid": "9f42df77-2bab-4dd1-9a90-cfeb818065d2"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U2-Y3-Pad8))",
+            "items": [
+                {
+                    "description": "Pad 8 [<no net>] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 32.81
+                    },
+                    "uuid": "d02d7dc9-9886-4d5e-bd48-c382c97c6c60"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 9 [GND] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 31.54
+                    },
+                    "uuid": "58ca0123-8b7d-456e-aa74-29e789826d05"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 10 [+5V_USB] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 30.27
+                    },
+                    "uuid": "30a0df3b-8d4e-42d8-b8da-9d986676fc54"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad missing net given by schematic (unconnected-(U2-Y4-Pad11))",
+            "items": [
+                {
+                    "description": "Pad 11 [<no net>] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 29.0
+                    },
+                    "uuid": "ee8ad02b-eefe-44ac-a323-495e3e21b7b7"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (GND) doesn't match net given by schematic (/GND)",
+            "items": [
+                {
+                    "description": "Pad 12 [GND] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 27.73
+                    },
+                    "uuid": "519cc5de-0eb7-4d5c-954d-988f7e9a2b6d"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 13 [+5V_USB] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 26.46
+                    },
+                    "uuid": "be47d43e-56fa-4547-8b41-8d6db6e09bf4"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Pad net (+5V_USB) doesn't match net given by schematic (/+5V_USB)",
+            "items": [
+                {
+                    "description": "Pad 14 [+5V_USB] of U2 on F.Cu",
+                    "pos": {
+                        "x": 49.475,
+                        "y": 25.19
+                    },
+                    "uuid": "41506b5d-0165-48a5-9460-801834e52e24"
+                }
+            ],
+            "severity": "warning",
+            "type": "net_conflict"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint H1",
+                    "pos": {
+                        "x": 4.0,
+                        "y": 4.0
+                    },
+                    "uuid": "42c0277b-7561-4355-8a11-e39abc0b79fc"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint H4",
+                    "pos": {
+                        "x": 76.0,
+                        "y": 92.0
+                    },
+                    "uuid": "ac9f636e-757f-4e49-9fb6-c6f5a28863eb"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint H2",
+                    "pos": {
+                        "x": 76.0,
+                        "y": 4.0
+                    },
+                    "uuid": "c371a104-c8ce-42bb-a4cf-5b3aa4001c43"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "Extra footprint",
+            "items": [
+                {
+                    "description": "Footprint H3",
+                    "pos": {
+                        "x": 4.0,
+                        "y": 92.0
+                    },
+                    "uuid": "cbc703b5-ae02-4662-ae83-3c21825c15c3"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        }
+    ],
+    "source": "goober.kicad_pcb",
+    "unconnected_items": [],
+    "violations": []
+}

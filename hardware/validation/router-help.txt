@@ -1,0 +1,53 @@
+2026-09-04 20:17:15.084 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+WARNING: Final field user_id in class app.freerouting.gui.StartupOptions has been mutated reflectively by class com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1 in unnamed module @2e3fc542 (file:/Users/maxthorson/Goober/tools/freerouting.jar)
+WARNING: Use --enable-final-field-mutation=ALL-UNNAMED to avoid a warning
+WARNING: Mutating final fields will be blocked in a future release unless final field mutation is enabled
+2026-09-04 20:17:15.101 [main] INFO  Settings were loaded from freerouting.json
+USAGE
+
+  freerouting [PARAMETERS]
+
+PARAMETERS
+
+  -de <design.dsn>
+      Loads the Specctra .dsn file
+
+  -di <design_directory>
+      Sets the default folder for the open design dialogs
+
+  -dr <design_rules_file>
+      Reads the rules a .rules file
+
+  -do <output_file>
+      Saves the board (.dsn), the session (.ses) or
+      the Eagle session script (.scr) at the end
+
+  -mp <number_of_passes>
+      Sets the upper limit of the number of auto-router passes
+      that will be performed
+
+  -l  <language>
+      "en" for English, "de" for German, "zh" for Simplified Chinese, otherwise it's the system default. English is set by default for unsupported languages.
+
+  -mt <number_of_threads>
+      Sets thread pool size for route optimization. The default is
+      one less than the number of logical processors in the system.
+
+  -us <updating_stratedy>
+      Greedy, Global, Hybrid. Sets board updating strategy for route
+      optimization. The default is greedy. When hybrid is selected,
+      another option "hr" specifies hybrid ratio.
+
+  -hr <m:n>
+      Sets hybrid ratio in the format of
+      #_global_optiomal_passes:#_prioritized_passes.
+      The default is 1:1. It's only effective when hybrid strategy
+      is selected.
+
+  -is <selection_strategy>
+      Sequential, random, or prioritized. Sets item selection strategy
+      for route optimization: sequential, random, prioritized. The 
+      default is prioritized. Prioritied stragegy selects items based
+      on scores calculated in previous round.
+
+  -h Shows this help

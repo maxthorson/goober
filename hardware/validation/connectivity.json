@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "connected_unique_pads": 141,
+  "nets": 33,
+  "checks": [
+    "Schematic vs circuit contract",
+    "PCB vs circuit contract",
+    "Keys, encoder, LED, OLED firmware GPIO mapping"
+  ],
+  "note": "Connectivity parity does not validate component behavior or physical prototype operation."
+}

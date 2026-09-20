@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "Goober")(type "KiCad")(uri "${KIPRJMOD}/Goober.pretty")(options "")(descr "Project footprints")))
